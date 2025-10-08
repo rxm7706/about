@@ -23,7 +23,7 @@
 
 [![rxm7706's GitHub stats](https://github-readme-stats.vercel.app/api?username=rxm7706&rank_icon=percentile&include_all_commits=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage,rank&hide=stars)](https://github.com/rxm7706/github-readme-stats)
 
-List Of FeedStocks - Maintainer
+List Of FeedStocks - As Maintainer
 
 1. conda-forge/a2wsgi-feedstock
 2. conda-forge/acachecontrol-feedstock
@@ -414,7 +414,7 @@ List Of FeedStocks - Maintainer
 387. conda-forge/ydata-quality-feedstock
 388. conda-forge/ydata-synthetic-feedstock
 
-List Of FeedStocks - Co Maintainer
+List Of FeedStocks - As Co-Maintainer
 
 1. conda-forge/airflow-code-editor-feedstock
 2. conda-forge/airflow-provider-great-expectations-feedstock
