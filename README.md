@@ -22,6 +22,7 @@
 
 
 [![rxm7706's GitHub stats](https://raw.githubusercontent.com/rxm7706/about/main/generated-stats/stats.svg)](https://github.com/rxm7706/github-readme-stats)
+[![rxm7706's Top Languages](https://raw.githubusercontent.com/rxm7706/about/main/generated-stats/top-langs.svg)](https://github.com/rxm7706/github-readme-stats)
 
 List Of FeedStocks - As Maintainer
 

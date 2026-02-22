@@ -10,25 +10,41 @@ jobs:
   stats:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - name: Generate GitHub Readme Stats
-        uses: readme-tools/github-readme-stats-action@v1
+      - name: Checkout about repo
+        uses: actions/checkout@v4
         with:
-          # Configuration
-          card: stats
-          # Pass all requested options as a query string or JSON
-          options: >-
-            username=rxm7706&show=prs_merged,prs_merged_percentage,rank&hide=stars&rank_icon=percentile&include_all_commits=true&show_icons=true
-          # Use your Personal Access Token
-          token: ${{ secrets.GH_TOKEN }}
-          # Output file path
-          path: generated-stats/stats.svg
+          path: main
+
+      - name: Checkout custom fork
+        uses: actions/checkout@v4
+        with:
+          repository: rxm7706/github-readme-stats
+          path: github-readme-stats
+          ref: master
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Install dependencies for fork
+        run: |
+          cd github-readme-stats
+          npm install
+        shell: bash
+
+      - name: Generate stats using custom script
+        run: |
+          cd main
+          node scripts/generate-stats.js
         env:
-          # Critical: enable multi-page fetching for your 800+ repos
+          PAT_1: ${{ secrets.GH_TOKEN }}
           FETCH_MULTI_PAGE_STARS: "true"
+        shell: bash
       
       - name: Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Update GitHub Readme Stats"
+          commit_message: "Update GitHub Readme Stats (Custom Fork)"
           file_pattern: 'generated-stats/*.svg'
+          repository: main
