@@ -10,26 +10,24 @@ jobs:
   stats:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - name: Generate GitHub Readme Stats
-        uses: anuraghazra/github-readme-stats@master
+        uses: readme-tools/github-readme-stats-action@v1
         with:
           # Configuration
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          USERNAME: rxm7706
-          # Show specific stats as requested in previous iterations
-          SHOW: "reviews,prs_merged,prs_merged_percentage,rank"
-          # Ensure rank icon is shown as requested
-          RANK_ICON: "percentile"
-          # Include all commits
-          INCLUDE_ALL_COMMITS: "true"
-          # Show icons
-          SHOW_ICONS: "true"
-          # Handle the 800+ repos issue
+          card: stats
+          # Pass all requested options as a query string or JSON
+          options: >-
+            username=rxm7706&show=reviews,prs_merged,prs_merged_percentage,rank&rank_icon=percentile&include_all_commits=true&show_icons=true
+          # Use your Personal Access Token
+          token: ${{ secrets.GH_TOKEN }}
+          # Output file path
+          path: generated-stats/stats.svg
+        env:
+          # Critical: enable multi-page fetching for your 800+ repos
           FETCH_MULTI_PAGE_STARS: "true"
-          # Output directory
-          OUTPUT_PATH: generated-stats
       
-      - name: Deploy to GitHub Pages or Commit
+      - name: Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update GitHub Readme Stats"
