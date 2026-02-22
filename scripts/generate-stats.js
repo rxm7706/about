@@ -1,8 +1,8 @@
 import { mkdir, writeFile } from "node:fs/promises";
 import path from "node:path";
 // Import from the cloned fork's source
-import statsApi from "../github-readme-stats/api/index.js";
-import topLangsApi from "../github-readme-stats/api/top-langs.js";
+import statsApi from "../../github-readme-stats/api/index.js";
+import topLangsApi from "../../github-readme-stats/api/top-langs.js";
 
 const run = async (cardType, username, options = {}, outputPathValue) => {
   const handler = cardType === "stats" ? statsApi : topLangsApi;
