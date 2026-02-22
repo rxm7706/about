@@ -1,0 +1,36 @@
+name: GitHub-Readme-Stats
+
+on:
+  schedule:
+    # Runs at 00:00 UTC every day
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate GitHub Readme Stats
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          # Configuration
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          USERNAME: rxm7706
+          # Show specific stats as requested in previous iterations
+          SHOW: "reviews,prs_merged,prs_merged_percentage,rank"
+          # Ensure rank icon is shown as requested
+          RANK_ICON: "percentile"
+          # Include all commits
+          INCLUDE_ALL_COMMITS: "true"
+          # Show icons
+          SHOW_ICONS: "true"
+          # Handle the 800+ repos issue
+          FETCH_MULTI_PAGE_STARS: "true"
+          # Output directory
+          OUTPUT_PATH: generated-stats
+      
+      - name: Deploy to GitHub Pages or Commit
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update GitHub Readme Stats"
+          file_pattern: 'generated-stats/*.svg'

@@ -21,7 +21,7 @@
     3.7. [Python Sofrware](https://www.python.org/psf-landing/). 
 
 
-[![rxm7706's GitHub stats](https://github-readme-stats.vercel.app/api?username=rxm7706&rank_icon=percentile&include_all_commits=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage,rank&hide=stars)](https://github.com/rxm7706/github-readme-stats)
+[![rxm7706's GitHub stats](generated-stats/stats.svg)](https://github.com/rxm7706/github-readme-stats)
 
 List Of FeedStocks - As Maintainer
 
