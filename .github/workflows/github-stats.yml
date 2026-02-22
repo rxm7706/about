@@ -2,8 +2,8 @@ name: GitHub-Readme-Stats
 
 on:
   schedule:
-    # Runs at 00:00 UTC every day
-    - cron: '0 0 * * *'
+    # Runs at 00:00 UTC on the 1st of every month
+    - cron: '0 0 1 * *'
   workflow_dispatch:
 
 jobs:
@@ -18,7 +18,7 @@ jobs:
           card: stats
           # Pass all requested options as a query string or JSON
           options: >-
-            username=rxm7706&show=reviews,prs_merged,prs_merged_percentage,rank&rank_icon=percentile&include_all_commits=true&show_icons=true
+            username=rxm7706&show=prs_merged,prs_merged_percentage,rank&hide=stars&rank_icon=percentile&include_all_commits=true&show_icons=true
           # Use your Personal Access Token
           token: ${{ secrets.GH_TOKEN }}
           # Output file path
