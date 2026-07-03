@@ -18,7 +18,7 @@
   
     3.6. [finos](https://www.finos.org/)
   
-    3.7. [Python Sofrware](https://www.python.org/psf-landing/). 
+    3.7. [Python Software](https://www.python.org/psf-landing/). 
 
 
 [![rxm7706's GitHub stats](https://raw.githubusercontent.com/rxm7706/about/main/generated-stats/stats.svg)](https://github.com/rxm7706/github-readme-stats)
