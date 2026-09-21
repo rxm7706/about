@@ -24,822 +24,882 @@
 [![rxm7706's GitHub stats](https://raw.githubusercontent.com/rxm7706/about/main/generated-stats/stats.svg)](https://github.com/rxm7706/github-readme-stats)
 [![rxm7706's Top Languages](https://raw.githubusercontent.com/rxm7706/about/main/generated-stats/top-langs.svg)](https://github.com/rxm7706/github-readme-stats)
 
-List Of FeedStocks - As Maintainer
+List Of FeedStocks  872
+    Sole maintainer	606
+    Co-maintainer	266
 
-1. conda-forge/a2a-sdk-feedstock
-2. conda-forge/a2wsgi-feedstock
-3. conda-forge/abstract-singleton-feedstock
-4. conda-forge/acachecontrol-feedstock
-5. conda-forge/acp-mcp-server-feedstock
-6. conda-forge/adk-agui-middleware-feedstock
-7. conda-forge/ag-ui-a2ui-toolkit-feedstock
-8. conda-forge/ag-ui-langgraph-feedstock
-9. conda-forge/ag-ui-protocol-feedstock
-10. conda-forge/agntcy-acp-feedstock
-11. conda-forge/ahlive-feedstock
-12. conda-forge/aiohttp-asgi-connector-feedstock
-13. conda-forge/airflow-dbt-feedstock
-14. conda-forge/airfly-feedstock
-15. conda-forge/alt-profanity-check-feedstock
-16. conda-forge/amundsen-common-feedstock
-17. conda-forge/amundsen-databuilder-feedstock
-18. conda-forge/amundsen-metadata-feedstock
-19. conda-forge/amundsen-rds-feedstock
-20. conda-forge/amundsen-search-feedstock
-21. conda-forge/anchor-exp-feedstock
-22. conda-forge/antlr4-tools-feedstock
-23. conda-forge/apache-atlas-feedstock
-24. conda-forge/apitally-feedstock
-25. conda-forge/astrapy-feedstock
-26. conda-forge/asttrs-feedstock
-27. conda-forge/asyncmock-feedstock
-28. conda-forge/auto-gpt-plugin-template-feedstock
-29. conda-forge/azure-ai-contentunderstanding-feedstock
-30. conda-forge/azure-ai-ml-feedstock
-31. conda-forge/azure-identity-broker-feedstock
-32. conda-forge/azure-synapse-nspkg-feedstock
-33. conda-forge/azure-synapse-spark-feedstock
-34. conda-forge/basedtyping-feedstock
-35. conda-forge/bce-python-sdk-feedstock
-36. conda-forge/behave-django-feedstock
-37. conda-forge/behave-html-formatter-feedstock
-38. conda-forge/behave-html-pretty-formatter-feedstock
-39. conda-forge/behave-pandas-feedstock
-40. conda-forge/bert-extractive-summarizer-feedstock
-41. conda-forge/bigframes-feedstock
-42. conda-forge/bokeh-django-feedstock
-43. conda-forge/brevo-python-feedstock
-44. conda-forge/burr-feedstock
-45. conda-forge/bynder-sdk-feedstock
-46. conda-forge/cleanlab-tlm-feedstock
-47. conda-forge/cmudict-feedstock
-48. conda-forge/cocoindex-feedstock
-49. conda-forge/codefind-feedstock
-50. conda-forge/coderedcms-feedstock
-51. conda-forge/collate-data-diff-feedstock
-52. conda-forge/collate-sqlfluff-feedstock
-53. conda-forge/collate-sqllineage-feedstock
-54. conda-forge/collectfasta-feedstock
-55. conda-forge/commonregex-feedstock
-56. conda-forge/conda-minify-feedstock
-57. conda-forge/condense-json-feedstock
-58. conda-forge/confluence-markdown-exporter-feedstock
-59. conda-forge/confusable-homoglyphs-feedstock
-60. conda-forge/cookiecutter-django-core-feedstock
-61. conda-forge/copilotkit-feedstock
-62. conda-forge/crispy-bootstrap4-feedstock
-63. conda-forge/crispy-bootstrap5-feedstock
-64. conda-forge/cssbeautifier-feedstock
-65. conda-forge/csv2parquet-feedstock
-66. conda-forge/cucumber-expressions-feedstock
-67. conda-forge/customersatisfactionmetrics-feedstock
-68. conda-forge/daff-feedstock
-69. conda-forge/dagster-async-executor-feedstock
-70. conda-forge/dash-editor-components-feedstock
-71. conda-forge/data-wizard-feedstock
-72. conda-forge/dataprofiler-feedstock
-73. conda-forge/datasette-cluster-map-feedstock
-74. conda-forge/datasette-configure-fts-feedstock
-75. conda-forge/datasette-copyable-feedstock
-76. conda-forge/datasette-dashboards-feedstock
-77. conda-forge/datasette-edit-schema-feedstock
-78. conda-forge/datasette-enrichments-feedstock
-79. conda-forge/datasette-gunicorn-feedstock
-80. conda-forge/datasette-insert-feedstock
-81. conda-forge/datasette-leaflet-feedstock
-82. conda-forge/datasette-nteract-data-explorer-feedstock
-83. conda-forge/datasette-parquet-feedstock
-84. conda-forge/datasette-render-markdown-feedstock
-85. conda-forge/datasette-scraper-feedstock
-86. conda-forge/datasette-search-all-feedstock
-87. conda-forge/datasette-secrets-feedstock
-88. conda-forge/datasette-statistics-feedstock
-89. conda-forge/datasette-template-sql-feedstock
-90. conda-forge/datasketch-feedstock
-91. conda-forge/datasketches-feedstock
-92. conda-forge/datastar-py-feedstock
-93. conda-forge/db-build-feedstock
-94. conda-forge/db-to-sqlite-feedstock
-95. conda-forge/dbt-dremio-feedstock
-96. conda-forge/dbt-protos-feedstock
-97. conda-forge/ddgs-feedstock
-98. conda-forge/deepxiv-sdk-feedstock
-99. conda-forge/detect-test-pollution-feedstock
-100. conda-forge/dg-sqlmesh-feedstock
-101. conda-forge/diazo-feedstock
-102. conda-forge/django-admin-rangefilter-feedstock
-103. conda-forge/django-ai-assistant-feedstock
-104. conda-forge/django-ai-boost-feedstock
-105. conda-forge/django-ai-core-feedstock
-106. conda-forge/django-approval-feedstock
-107. conda-forge/django-auditlog-feedstock
-108. conda-forge/django-bootstrap-form-feedstock
-109. conda-forge/django-breeze-feedstock
-110. conda-forge/django-celery-beat-feedstock
-111. conda-forge/django-classy-tags-feedstock
-112. conda-forge/django-cms-feedstock
-113. conda-forge/django-codemirror6-feedstock
-114. conda-forge/django-cogwheels-feedstock
-115. conda-forge/django-colorful-feedstock
-116. conda-forge/django-comments-xtd-feedstock
-117. conda-forge/django-components-feedstock
-118. conda-forge/django-compression-middleware-feedstock
-119. conda-forge/django-constance-feedstock
-120. conda-forge/django-cryptography-django5-feedstock
-121. conda-forge/django-csp-feedstock
-122. conda-forge/django-csvimport-feedstock
-123. conda-forge/django-data-browser-feedstock
-124. conda-forge/django-db-logger-feedstock
-125. conda-forge/django-dbbackup-feedstock
-126. conda-forge/django-dcat-feedstock
-127. conda-forge/django-entangled-feedstock
-128. conda-forge/django-enterprise-maintenance-suite-feedstock
-129. conda-forge/django-etc-feedstock
-130. conda-forge/django-events-timetable-feedstock
-131. conda-forge/django-eventtools-feedstock
-132. conda-forge/django-excel-tools-feedstock
-133. conda-forge/django-extra-views-feedstock
-134. conda-forge/django-fernet-encrypted-fields-feedstock
-135. conda-forge/django-filebrowser-feedstock
-136. conda-forge/django-flags-feedstock
-137. conda-forge/django-formtools-feedstock
-138. conda-forge/django-fsm-2-feedstock
-139. conda-forge/django-funky-sheets-feedstock
-140. conda-forge/django-groups-manager-feedstock
-141. conda-forge/django-grpc-feedstock
-142. conda-forge/django-handyhelpers-feedstock
-143. conda-forge/django-health-check-feedstock
-144. conda-forge/django-hitcount-feedstock
-145. conda-forge/django-hosts-feedstock
-146. conda-forge/django-http-compression-feedstock
-147. conda-forge/django-lasuite-feedstock
-148. conda-forge/django-linear-migrations-feedstock
-149. conda-forge/django-log-request-id-feedstock
-150. conda-forge/django-log-viewer-feedstock
-151. conda-forge/django-markdownify-feedstock
-152. conda-forge/django-mcp-server-feedstock
-153. conda-forge/django-moderation-feedstock
-154. conda-forge/django-mongodb-backend-feedstock
-155. conda-forge/django-mptt-tree-editor-feedstock
-156. conda-forge/django-mptt2-feedstock
-157. conda-forge/django-nextjs-feedstock
-158. conda-forge/django-nyt-feedstock
-159. conda-forge/django-o11y-feedstock
-160. conda-forge/django-oidc-provider-feedstock
-161. conda-forge/django-online-issues-feedstock
-162. conda-forge/django-orghierarchy-feedstock
-163. conda-forge/django-otlp-log-exporter-feedstock
-164. conda-forge/django-plotly-dash-feedstock
-165. conda-forge/django-plotly-wagtail-feedstock
-166. conda-forge/django-prometheus-feedstock
-167. conda-forge/django-pydantic-field-feedstock
-168. conda-forge/django-pydantic-models-feedstock
-169. conda-forge/django-pygwalker-feedstock
-170. conda-forge/django-read-only-feedstock
-171. conda-forge/django-registration-feedstock
-172. conda-forge/django-revproxy-feedstock
-173. conda-forge/django-schema-viewer-feedstock
-174. conda-forge/django-sekizai-feedstock
-175. conda-forge/django-sesame-feedstock
-176. conda-forge/django-slick-reporting-feedstock
-177. conda-forge/django-socio-grpc-feedstock
-178. conda-forge/django-soft-delete-feedstock
-179. conda-forge/django-solo-feedstock
-180. conda-forge/django-sql-dashboard-feedstock
-181. conda-forge/django-sql-explorer-feedstock
-182. conda-forge/django-star-ratings-feedstock
-183. conda-forge/django-streamfield-feedstock
-184. conda-forge/django-structlog-feedstock
-185. conda-forge/django-survey-and-report-feedstock
-186. conda-forge/django-tastypie-feedstock
-187. conda-forge/django-tenant-schemas-feedstock
-188. conda-forge/django-tenant-users-feedstock
-189. conda-forge/django-tenants-feedstock
-190. conda-forge/django-tex-feedstock
-191. conda-forge/django-timezone-field-feedstock
-192. conda-forge/django-todo-feedstock
-193. conda-forge/django-tree-queries-feedstock
-194. conda-forge/django-treenode-feedstock
-195. conda-forge/django-url-filter-feedstock
-196. conda-forge/django-utils-six-feedstock
-197. conda-forge/django-vite-feedstock
-198. conda-forge/django-vite-plugin-feedstock
-199. conda-forge/django-watchfiles-feedstock
-200. conda-forge/django-weasyprint-feedstock
-201. conda-forge/django-wildewidgets-feedstock
-202. conda-forge/django-yugabytedb-feedstock
-203. conda-forge/django-zxcvbn-password-validator-feedstock
-204. conda-forge/djangocms-attributes-field-feedstock
-205. conda-forge/djangocms-frontend-feedstock
-206. conda-forge/djangocms-history-feedstock
-207. conda-forge/djangocms-icon-feedstock
-208. conda-forge/djangocms-link-feedstock
-209. conda-forge/djangocms-picture-feedstock
-210. conda-forge/djangocms-style-feedstock
-211. conda-forge/djangocms-text-ckeditor-feedstock
-212. conda-forge/djangorestframework-api-key-feedstock
-213. conda-forge/djangorestframework-dataclasses-feedstock
-214. conda-forge/djangorestframework-guardian-feedstock
-215. conda-forge/djantic-feedstock
-216. conda-forge/djc-core-feedstock
-217. conda-forge/djc-core-html-parser-feedstock
-218. conda-forge/djlint-feedstock
-219. conda-forge/djongo5-feedstock
-220. conda-forge/dlt-pendulum-feedstock
-221. conda-forge/dockerflow-feedstock
-222. conda-forge/docs2static-feedstock
-223. conda-forge/docstring_parser_fork-feedstock
-224. conda-forge/dremio-arrow-feedstock
-225. conda-forge/dremio-cli-feedstock
-226. conda-forge/dremio-simple-query-feedstock
-227. conda-forge/dremioframe-feedstock
-228. conda-forge/drf-optionalfields-feedstock
-229. conda-forge/drf-pydantic-feedstock
-230. conda-forge/drf-standardized-errors-feedstock
-231. conda-forge/drf-to-mkdoc-feedstock
-232. conda-forge/duckdb-server-feedstock
-233. conda-forge/dydantic-feedstock
-234. conda-forge/excel-mcp-server-feedstock
-235. conda-forge/fastapi-slim-feedstock
-236. conda-forge/feast-feedstock
-237. conda-forge/feathr-feedstock
-238. conda-forge/fixedint-feedstock
-239. conda-forge/fixedwidth-feedstock
-240. conda-forge/flake518-feedstock
-241. conda-forge/flake8-bandit-feedstock
-242. conda-forge/flake8-debugger-feedstock
-243. conda-forge/flake8-django-feedstock
-244. conda-forge/flake8-executable-feedstock
-245. conda-forge/flake8-logging-feedstock
-246. conda-forge/flake8-no-pep420-feedstock
-247. conda-forge/flake8-pylint-feedstock
-248. conda-forge/flake8-pyproject-feedstock
-249. conda-forge/flake8-tidy-imports-feedstock
-250. conda-forge/frictionless-ckan-mapper-feedstock
-251. conda-forge/fs.googledrivefs-feedstock
-252. conda-forge/gekko-feedstock
-253. conda-forge/gender-guesser-feedstock
-254. conda-forge/gibr-feedstock
-255. conda-forge/gita-feedstock
-256. conda-forge/gitflow-feedstock
-257. conda-forge/gitflow-analytics-feedstock
-258. conda-forge/gitflow-studio-feedstock
-259. conda-forge/google-cloud-bigquery-connection-feedstock
-260. conda-forge/google-cloud-functions-feedstock
-261. conda-forge/google-cloud-ndb-feedstock
-262. conda-forge/google-cloud-scheduler-feedstock
-263. conda-forge/google-cloud-vectorsearch-feedstock
-264. conda-forge/gotenberg-client-feedstock
-265. conda-forge/graph-retriever-feedstock
-266. conda-forge/grunnur-feedstock
-267. conda-forge/guidance-stitch-feedstock
-268. conda-forge/gw-dsl-parser-feedstock
-269. conda-forge/h2o-lightwave-web-feedstock
-270. conda-forge/h2o-wave-feedstock
-271. conda-forge/hatch-build-scripts-feedstock
-272. conda-forge/heroicons-feedstock
-273. conda-forge/hll-feedstock
-274. conda-forge/html-json-forms-feedstock
-275. conda-forge/html-tag-names-feedstock
-276. conda-forge/html-to-markdown-feedstock
-277. conda-forge/html-void-elements-feedstock
-278. conda-forge/html5lib-modern-feedstock
-279. conda-forge/htmldocx-feedstock
-280. conda-forge/hubspot-api-client-feedstock
-281. conda-forge/hyperscript-feedstock
-282. conda-forge/ibm-cos-suite-feedstock
-283. conda-forge/ibm-watsonx-orchestrate-clients-feedstock
-284. conda-forge/ibm-watsonx-orchestrate-core-feedstock
-285. conda-forge/inertia-django-feedstock
-286. conda-forge/install-jdk-feedstock
-287. conda-forge/intake-dataframe-catalog-feedstock
-288. conda-forge/intake-hive-feedstock
-289. conda-forge/intake-nested-yaml-catalog-feedstock
-290. conda-forge/interpret-community-feedstock
-291. conda-forge/ironcalc-feedstock
-292. conda-forge/itertable-feedstock
-293. conda-forge/java-access-bridge-wrapper-feedstock
-294. conda-forge/jh2-feedstock
-295. conda-forge/jinja2-ospath-feedstock
-296. conda-forge/jinja2-simple-tags-feedstock
-297. conda-forge/json-stream-rs-tokenizer-feedstock
-298. conda-forge/json-strong-typing-feedstock
-299. conda-forge/json_stream-feedstock
-300. conda-forge/jsonquerylang-feedstock
-301. conda-forge/jupyter-marimo-proxy-feedstock
-302. conda-forge/jupyterlab-gallery-feedstock
-303. conda-forge/jupyterlab-launchpad-feedstock
-304. conda-forge/jupyterlab-s3-browser-feedstock
-305. conda-forge/jupyterlab-slideshow-feedstock
-306. conda-forge/jurigged-feedstock
-307. conda-forge/kantoku-feedstock
-308. conda-forge/kedro-aim-feedstock
-309. conda-forge/kedro-boot-feedstock
-310. conda-forge/kedro-datasets-feedstock
-311. conda-forge/kedro-docker-feedstock
-312. conda-forge/kedro-great-expectations-feedstock
-313. conda-forge/kedro-init-feedstock
-314. conda-forge/kedro-light-feedstock
-315. conda-forge/kedro-pandera-feedstock
-316. conda-forge/kthread-feedstock
-317. conda-forge/laces-feedstock
-318. conda-forge/lambdaprompt-feedstock
-319. conda-forge/langchain-mcp-adapters-feedstock
-320. conda-forge/langsmith-mcp-server-feedstock
-321. conda-forge/lazy-imports-feedstock
-322. conda-forge/llms-py-feedstock
-323. conda-forge/lm-format-enforcer-feedstock
-324. conda-forge/loki-logger-handler-feedstock
-325. conda-forge/lomond-feedstock
-326. conda-forge/lyric-component-ts-transpiling-feedstock
-327. conda-forge/lyric-js-worker-feedstock
-328. conda-forge/lyric-py-feedstock
-329. conda-forge/lyric-py-worker-feedstock
-330. conda-forge/lyric-task-feedstock
-331. conda-forge/mailpit-feedstock
-332. conda-forge/markdown-to-confluence-feedstock
-333. conda-forge/markdownify-mcp-server-feedstock
-334. conda-forge/markitdown-mcp-server-feedstock
-335. conda-forge/marquez-python-feedstock
-336. conda-forge/marshmallow3-annotations-feedstock
-337. conda-forge/mcp-django-feedstock
-338. conda-forge/mcp-powerpoint-feedstock
-339. conda-forge/mcp-ui-server-feedstock
-340. conda-forge/microsoft-agents-m365copilot-feedstock
-341. conda-forge/microsoft-agents-m365copilot-core-feedstock
-342. conda-forge/microsoft-kiota-bundle-feedstock
-343. conda-forge/mmhash3-feedstock
-344. conda-forge/mozilla-django-oidc-feedstock
-345. conda-forge/mypy-boto3-bedrock-runtime-feedstock
-346. conda-forge/natural-keys-feedstock
-347. conda-forge/negspacy-feedstock
-348. conda-forge/nested-multipart-parser-feedstock
-349. conda-forge/nlp-feature-extractors-feedstock
-350. conda-forge/odfdo-feedstock
-351. conda-forge/okta-jwt-verifier-feedstock
-352. conda-forge/omnixai-feedstock
-353. conda-forge/openllm-core-feedstock
-354. conda-forge/openmetadata-ingestion-feedstock
-355. conda-forge/openmetadata-managed-apis-feedstock
-356. conda-forge/openmetadata-sqllineage-feedstock
-357. conda-forge/opentelemetry-exporter-gcp-monitoring-feedstock
-358. conda-forge/opentelemetry-exporter-gcp-trace-feedstock
-359. conda-forge/opentelemetry-exporter-prometheus-remote-write-feedstock
-360. conda-forge/opentelemetry-instrumentation-confluent-kafka-feedstock
-361. conda-forge/opentelemetry-instrumentation-kafka-python-feedstock
-362. conda-forge/opentelemetry-propagator-gcp-feedstock
-363. conda-forge/opentelemetry-resourcedetector-gcp-feedstock
-364. conda-forge/ovld-feedstock
-365. conda-forge/parquet-metadata-feedstock
-366. conda-forge/peewee-migrate-feedstock
-367. conda-forge/pinyin-feedstock
-368. conda-forge/pixitainer-feedstock
-369. conda-forge/pmlb-feedstock
-370. conda-forge/primp-feedstock
-371. conda-forge/propelauth_py-feedstock
-372. conda-forge/prophecy-build-tool-feedstock
-373. conda-forge/proto-parser-feedstock
-374. conda-forge/pss-feedstock
-375. conda-forge/psycopg2-yugabytedb-feedstock
-376. conda-forge/py-grpc-prometheus-feedstock
-377. conda-forge/py-key-value-feedstock
-378. conda-forge/py-yaml12-feedstock
-379. conda-forge/py3langid-feedstock
-380. conda-forge/pyapacheatlas-feedstock
-381. conda-forge/pybase62-feedstock
-382. conda-forge/pybindgen-feedstock
-383. conda-forge/pydantic-sqlalchemy-feedstock
-384. conda-forge/pydantic-yaml-feedstock
-385. conda-forge/pyecharts-feedstock
-386. conda-forge/pygetimportables-feedstock
-387. conda-forge/pygount-feedstock
-388. conda-forge/pyiceberg-feedstock
-389. conda-forge/pyignite-feedstock
-390. conda-forge/pyinstaller-versionfile-feedstock
-391. conda-forge/pymilvus-model-feedstock
-392. conda-forge/pynessie-feedstock
-393. conda-forge/pyngo-feedstock
-394. conda-forge/pyobjc-framework-applicationservices-feedstock
-395. conda-forge/pyobjc-framework-systemconfiguration-feedstock
-396. conda-forge/pypac-feedstock
-397. conda-forge/pytest-deadfixtures-feedstock
-398. conda-forge/pytest-excel-feedstock
-399. conda-forge/pytest-playwright-feedstock
-400. conda-forge/pytest-pythonpath-feedstock
-401. conda-forge/python-a2a-feedstock
-402. conda-forge/python-flanker-feedstock
-403. conda-forge/python-kerberos-feedstock
-404. conda-forge/python-ulid-feedstock
-405. conda-forge/queryish-feedstock
-406. conda-forge/raimitigations-feedstock
-407. conda-forge/raitracker-feedstock
-408. conda-forge/reactpy-feedstock
-409. conda-forge/reloading-feedstock
-410. conda-forge/researchpy-feedstock
-411. conda-forge/responsibleai-feedstock
-412. conda-forge/responsibleai-text-feedstock
-413. conda-forge/rest-pandas-feedstock
-414. conda-forge/robocorp-excel-feedstock
-415. conda-forge/robocorp-http-feedstock
-416. conda-forge/robocorp-log-feedstock
-417. conda-forge/robocorp-storage-feedstock
-418. conda-forge/robocorp-vault-feedstock
-419. conda-forge/robotframework-assertion-engine-feedstock
-420. conda-forge/robotframework-databaselibrary-feedstock
-421. conda-forge/robotframework-excellib-feedstock
-422. conda-forge/rouge-feedstock
-423. conda-forge/rpm-vercmp-feedstock
-424. conda-forge/sambanova-feedstock
-425. conda-forge/sas7bdat-converter-feedstock
-426. conda-forge/seedir-feedstock
-427. conda-forge/selectolax-feedstock
-428. conda-forge/sema4ai-actions-feedstock
-429. conda-forge/sema4ai-common-feedstock
-430. conda-forge/sema4ai-http-helper-feedstock
-431. conda-forge/setuptools-git-version-feedstock
-432. conda-forge/setuptools-parcels-feedstock
-433. conda-forge/sf-hamilton-sdk-feedstock
-434. conda-forge/sf-hamilton-ui-feedstock
-435. conda-forge/shapash-feedstock
-436. conda-forge/shillelagh-feedstock
-437. conda-forge/shortid-feedstock
-438. conda-forge/shot-scraper-feedstock
-439. conda-forge/singleton-decorator-feedstock
-440. conda-forge/sketch-feedstock
-441. conda-forge/skope-rules-feedstock
-442. conda-forge/skranger-feedstock
-443. conda-forge/smartsheet-python-sdk-feedstock
-444. conda-forge/solvor-feedstock
-445. conda-forge/sparktorch-feedstock
-446. conda-forge/spec-kit-feedstock
-447. conda-forge/splunk-opentelemetry-feedstock
-448. conda-forge/sqlalchemy-databricks-feedstock
-449. conda-forge/sqlfluff-templater-dbt-feedstock
-450. conda-forge/sqlite-history-feedstock
-451. conda-forge/sqlite-migrate-feedstock
-452. conda-forge/sqlparams-feedstock
-453. conda-forge/streamlit-reveal-slides-feedstock
-454. conda-forge/structlog-gcp-feedstock
-455. conda-forge/synthetic-data-feedstock
-456. conda-forge/tabcmd-feedstock
-457. conda-forge/tableau-to-sqlite-feedstock
-458. conda-forge/tableauscraper-feedstock
-459. conda-forge/tabpy-feedstock
-460. conda-forge/taipy-config-feedstock
-461. conda-forge/taipy-templates-feedstock
-462. conda-forge/tastymap-feedstock
-463. conda-forge/textual-speedups-feedstock
-464. conda-forge/tika-client-feedstock
-465. conda-forge/timelib-feedstock
-466. conda-forge/timer-feedstock
-467. conda-forge/tinyhtml5-feedstock
-468. conda-forge/tox-poetry-installer-feedstock
-469. conda-forge/tox-uv-feedstock
-470. conda-forge/types-appdirs-feedstock
-471. conda-forge/uiautomation-feedstock
-472. conda-forge/universal-mcp-feedstock
-473. conda-forge/universal-mcp-markitdown-feedstock
-474. conda-forge/upstash-vector-feedstock
-475. conda-forge/uvicorn-worker-feedstock
-476. conda-forge/validate-pyproject-feedstock
-477. conda-forge/vcver-feedstock
-478. conda-forge/verlib2-feedstock
-479. conda-forge/versiontag-feedstock
-480. conda-forge/vision-explanation-methods-feedstock
-481. conda-forge/vizro-feedstock
-482. conda-forge/vizro-ai-feedstock
-483. conda-forge/vizro-dash-components-feedstock
-484. conda-forge/vizro-mcp-feedstock
-485. conda-forge/vllm-nccl-cu12-feedstock
-486. conda-forge/vlmrun-hub-feedstock
-487. conda-forge/wagtail-ab-testing-feedstock
-488. conda-forge/wagtail-accessibility-feedstock
-489. conda-forge/wagtail-advanced-form-builder-feedstock
-490. conda-forge/wagtail-ai-feedstock
-491. conda-forge/wagtail-app-pages-feedstock
-492. conda-forge/wagtail-autocomplete-feedstock
-493. conda-forge/wagtail-blocks-feedstock
-494. conda-forge/wagtail-cache-feedstock
-495. conda-forge/wagtail-charcount-feedstock
-496. conda-forge/wagtail-color-panel-feedstock
-497. conda-forge/wagtail-constance-feedstock
-498. conda-forge/wagtail-draftail-plugins-feedstock
-499. conda-forge/wagtail-dynamic-dropdown-feedstock
-500. conda-forge/wagtail-experiments-feedstock
-501. conda-forge/wagtail-factories-feedstock
-502. conda-forge/wagtail-feedback-feedstock
-503. conda-forge/wagtail-flags-feedstock
-504. conda-forge/wagtail-flexible-forms-feedstock
-505. conda-forge/wagtail-font-awesome-svg-feedstock
-506. conda-forge/wagtail-footnotes-feedstock
-507. conda-forge/wagtail-generic-chooser-feedstock
-508. conda-forge/wagtail-grapple-feedstock
-509. conda-forge/wagtail-headless-preview-feedstock
-510. conda-forge/wagtail-import-export-tool-feedstock
-511. conda-forge/wagtail-inventory-feedstock
-512. conda-forge/wagtail-json-widget-feedstock
-513. conda-forge/wagtail-knowledgebase-feedstock
-514. conda-forge/wagtail-linkchecker-feedstock
-515. conda-forge/wagtail-live-feedstock
-516. conda-forge/wagtail-markdown-feedstock
-517. conda-forge/wagtail-meta-preview-feedstock
-518. conda-forge/wagtail-metadata-feedstock
-519. conda-forge/wagtail-modeladmin-feedstock
-520. conda-forge/wagtail-nav-menus-feedstock
-521. conda-forge/wagtail-pdf-feedstock
-522. conda-forge/wagtail-periodic-review-feedstock
-523. conda-forge/wagtail-plotly-feedstock
-524. conda-forge/wagtail-rangefilter-feedstock
-525. conda-forge/wagtail-resume-feedstock
-526. conda-forge/wagtail-review-feedstock
-527. conda-forge/wagtail-sb-admin-interface-feedstock
-528. conda-forge/wagtail-seo-feedstock
-529. conda-forge/wagtail-sharing-feedstock
-530. conda-forge/wagtail-storages-feedstock
-531. conda-forge/wagtail-surveyjs-feedstock
-532. conda-forge/wagtail-tag-manager-feedstock
-533. conda-forge/wagtail-taggable-feedstock
-534. conda-forge/wagtail-themes-feedstock
-535. conda-forge/wagtail-transfer-feedstock
-536. conda-forge/wagtail-trash-feedstock
-537. conda-forge/wagtail-treemodeladmin-feedstock
-538. conda-forge/wagtail-word-feedstock
-539. conda-forge/wagtailcharts-feedstock
-540. conda-forge/wagtailextraicons-feedstock
-541. conda-forge/wagtailgridder-feedstock
-542. conda-forge/wagtailmath-feedstock
-543. conda-forge/wagtailmedia-feedstock
-544. conda-forge/wagtailmenus-feedstock
-545. conda-forge/wagtailnews-feedstock
-546. conda-forge/wagtailstreamforms-feedstock
-547. conda-forge/wagtailtables-feedstock
-548. conda-forge/wasmtime-py-feedstock
-549. conda-forge/webstories-feedstock
-550. conda-forge/whoosh-reloaded-feedstock
-551. conda-forge/word-forms-feedstock
-552. conda-forge/xdg-base-dirs-feedstock
-553. conda-forge/xorq-dasher-feedstock
-554. conda-forge/xorq-datafusion-feedstock
-555. conda-forge/ydata-profiling-feedstock
-556. conda-forge/ydata-quality-feedstock
-557. conda-forge/ydata-synthetic-feedstock
-558. conda-forge/yo-feedstock
-559. conda-forge/zxcvbn-feedstock
+List Of FeedStocks - As Sole maintainer 606
+    1. conda-forge/a2a-sdk-feedstock
+    2. conda-forge/a2wsgi-feedstock
+    3. conda-forge/abstract-singleton-feedstock
+    4. conda-forge/acachecontrol-feedstock
+    5. conda-forge/acp-mcp-server-feedstock
+    6. conda-forge/adk-agui-middleware-feedstock
+    7. conda-forge/ag-ui-a2ui-toolkit-feedstock
+    8. conda-forge/ag-ui-langgraph-feedstock
+    9. conda-forge/ag-ui-protocol-feedstock
+    10. conda-forge/agnoctl-feedstock
+    11. conda-forge/agntcy-acp-feedstock
+    12. conda-forge/ahlive-feedstock
+    13. conda-forge/aiohttp-asgi-connector-feedstock
+    14. conda-forge/airflow-dbt-feedstock
+    15. conda-forge/airfly-feedstock
+    16. conda-forge/alt-profanity-check-feedstock
+    17. conda-forge/amundsen-common-feedstock
+    18. conda-forge/amundsen-databuilder-feedstock
+    19. conda-forge/amundsen-metadata-feedstock
+    20. conda-forge/amundsen-rds-feedstock
+    21. conda-forge/amundsen-search-feedstock
+    22. conda-forge/anchor-exp-feedstock
+    23. conda-forge/antlr4-tools-feedstock
+    24. conda-forge/apache-atlas-feedstock
+    25. conda-forge/apitally-feedstock
+    26. conda-forge/astrapy-feedstock
+    27. conda-forge/asttrs-feedstock
+    28. conda-forge/asyncmock-feedstock
+    29. conda-forge/auto-gpt-plugin-template-feedstock
+    30. conda-forge/azure-ai-contentunderstanding-feedstock
+    31. conda-forge/azure-ai-ml-feedstock
+    32. conda-forge/azure-identity-broker-feedstock
+    33. conda-forge/azure-synapse-nspkg-feedstock
+    34. conda-forge/azure-synapse-spark-feedstock
+    35. conda-forge/basedtyping-feedstock
+    36. conda-forge/batchcorder-feedstock
+    37. conda-forge/bce-python-sdk-feedstock
+    38. conda-forge/behave-django-feedstock
+    39. conda-forge/behave-html-formatter-feedstock
+    40. conda-forge/behave-html-pretty-formatter-feedstock
+    41. conda-forge/behave-pandas-feedstock
+    42. conda-forge/bert-extractive-summarizer-feedstock
+    43. conda-forge/bigframes-feedstock
+    44. conda-forge/bmad-loop-feedstock
+    45. conda-forge/bmad-module-skill-forge-feedstock
+    46. conda-forge/bmalph-feedstock
+    47. conda-forge/bokeh-django-feedstock
+    48. conda-forge/brevo-python-feedstock
+    49. conda-forge/burr-feedstock
+    50. conda-forge/bynder-sdk-feedstock
+    51. conda-forge/cdxgen-feedstock
+    52. conda-forge/cleanlab-tlm-feedstock
+    53. conda-forge/cmudict-feedstock
+    54. conda-forge/cocoindex-feedstock
+    55. conda-forge/codefind-feedstock
+    56. conda-forge/coderedcms-feedstock
+    57. conda-forge/collate-data-diff-feedstock
+    58. conda-forge/collate-sqlfluff-feedstock
+    59. conda-forge/collate-sqllineage-feedstock
+    60. conda-forge/collectfasta-feedstock
+    61. conda-forge/commonregex-feedstock
+    62. conda-forge/composio-langchain-feedstock
+    63. conda-forge/conda-minify-feedstock
+    64. conda-forge/condense-json-feedstock
+    65. conda-forge/confluence-markdown-exporter-feedstock
+    66. conda-forge/confusable-homoglyphs-feedstock
+    67. conda-forge/cookiecutter-django-core-feedstock
+    68. conda-forge/copilotkit-feedstock
+    69. conda-forge/couchbase-feedstock
+    70. conda-forge/crispy-bootstrap4-feedstock
+    71. conda-forge/crispy-bootstrap5-feedstock
+    72. conda-forge/cssbeautifier-feedstock
+    73. conda-forge/csv2parquet-feedstock
+    74. conda-forge/cucumber-expressions-feedstock
+    75. conda-forge/customersatisfactionmetrics-feedstock
+    76. conda-forge/daff-feedstock
+    77. conda-forge/dagster-async-executor-feedstock
+    78. conda-forge/dash-editor-components-feedstock
+    79. conda-forge/data-wizard-feedstock
+    80. conda-forge/dataprofiler-feedstock
+    81. conda-forge/datasette-cluster-map-feedstock
+    82. conda-forge/datasette-configure-fts-feedstock
+    83. conda-forge/datasette-copyable-feedstock
+    84. conda-forge/datasette-dashboards-feedstock
+    85. conda-forge/datasette-edit-schema-feedstock
+    86. conda-forge/datasette-enrichments-feedstock
+    87. conda-forge/datasette-gunicorn-feedstock
+    88. conda-forge/datasette-insert-feedstock
+    89. conda-forge/datasette-leaflet-feedstock
+    90. conda-forge/datasette-nteract-data-explorer-feedstock
+    91. conda-forge/datasette-parquet-feedstock
+    92. conda-forge/datasette-render-markdown-feedstock
+    93. conda-forge/datasette-scraper-feedstock
+    94. conda-forge/datasette-search-all-feedstock
+    95. conda-forge/datasette-secrets-feedstock
+    96. conda-forge/datasette-statistics-feedstock
+    97. conda-forge/datasette-template-sql-feedstock
+    98. conda-forge/datasketch-feedstock
+    99. conda-forge/datasketches-feedstock
+    100. conda-forge/datastar-py-feedstock
+    101. conda-forge/db-build-feedstock
+    102. conda-forge/db-to-sqlite-feedstock
+    103. conda-forge/dbt-dremio-feedstock
+    104. conda-forge/dbt-protos-feedstock
+    105. conda-forge/ddgs-feedstock
+    106. conda-forge/deepxiv-sdk-feedstock
+    107. conda-forge/detect-test-pollution-feedstock
+    108. conda-forge/dg-sqlmesh-feedstock
+    109. conda-forge/diazo-feedstock
+    110. conda-forge/dj-control-room-base-feedstock
+    111. conda-forge/django-admin-rangefilter-feedstock
+    112. conda-forge/django-ai-assistant-feedstock
+    113. conda-forge/django-ai-boost-feedstock
+    114. conda-forge/django-ai-core-feedstock
+    115. conda-forge/django-approval-feedstock
+    116. conda-forge/django-auditlog-feedstock
+    117. conda-forge/django-bootstrap-form-feedstock
+    118. conda-forge/django-breeze-feedstock
+    119. conda-forge/django-celery-beat-feedstock
+    120. conda-forge/django-classy-tags-feedstock
+    121. conda-forge/django-cms-feedstock
+    122. conda-forge/django-codemirror6-feedstock
+    123. conda-forge/django-cogwheels-feedstock
+    124. conda-forge/django-colorful-feedstock
+    125. conda-forge/django-comments-xtd-feedstock
+    126. conda-forge/django-components-feedstock
+    127. conda-forge/django-compression-middleware-feedstock
+    128. conda-forge/django-constance-feedstock
+    129. conda-forge/django-cryptography-django5-feedstock
+    130. conda-forge/django-csp-feedstock
+    131. conda-forge/django-csvimport-feedstock
+    132. conda-forge/django-data-browser-feedstock
+    133. conda-forge/django-db-logger-feedstock
+    134. conda-forge/django-dbbackup-feedstock
+    135. conda-forge/django-dcat-feedstock
+    136. conda-forge/django-entangled-feedstock
+    137. conda-forge/django-enterprise-maintenance-suite-feedstock
+    138. conda-forge/django-etc-feedstock
+    139. conda-forge/django-events-timetable-feedstock
+    140. conda-forge/django-eventtools-feedstock
+    141. conda-forge/django-excel-tools-feedstock
+    142. conda-forge/django-extra-views-feedstock
+    143. conda-forge/django-fernet-encrypted-fields-feedstock
+    144. conda-forge/django-filebrowser-feedstock
+    145. conda-forge/django-flags-feedstock
+    146. conda-forge/django-formtools-feedstock
+    147. conda-forge/django-fsm-2-feedstock
+    148. conda-forge/django-funky-sheets-feedstock
+    149. conda-forge/django-groups-manager-feedstock
+    150. conda-forge/django-grpc-feedstock
+    151. conda-forge/django-handyhelpers-feedstock
+    152. conda-forge/django-health-check-feedstock
+    153. conda-forge/django-hitcount-feedstock
+    154. conda-forge/django-hosts-feedstock
+    155. conda-forge/django-http-compression-feedstock
+    156. conda-forge/django-lasuite-feedstock
+    157. conda-forge/django-linear-migrations-feedstock
+    158. conda-forge/django-log-request-id-feedstock
+    159. conda-forge/django-log-viewer-feedstock
+    160. conda-forge/django-markdownify-feedstock
+    161. conda-forge/django-mcp-server-feedstock
+    162. conda-forge/django-moderation-feedstock
+    163. conda-forge/django-mongodb-backend-feedstock
+    164. conda-forge/django-mptt-tree-editor-feedstock
+    165. conda-forge/django-mptt2-feedstock
+    166. conda-forge/django-nextjs-feedstock
+    167. conda-forge/django-nyt-feedstock
+    168. conda-forge/django-o11y-feedstock
+    169. conda-forge/django-oidc-provider-feedstock
+    170. conda-forge/django-online-issues-feedstock
+    171. conda-forge/django-orghierarchy-feedstock
+    172. conda-forge/django-otlp-log-exporter-feedstock
+    173. conda-forge/django-plotly-dash-feedstock
+    174. conda-forge/django-plotly-wagtail-feedstock
+    175. conda-forge/django-prometheus-feedstock
+    176. conda-forge/django-pydantic-field-feedstock
+    177. conda-forge/django-pydantic-models-feedstock
+    178. conda-forge/django-pygwalker-feedstock
+    179. conda-forge/django-read-only-feedstock
+    180. conda-forge/django-registration-feedstock
+    181. conda-forge/django-revproxy-feedstock
+    182. conda-forge/django-schema-viewer-feedstock
+    183. conda-forge/django-sekizai-feedstock
+    184. conda-forge/django-sesame-feedstock
+    185. conda-forge/django-slick-reporting-feedstock
+    186. conda-forge/django-socio-grpc-feedstock
+    187. conda-forge/django-soft-delete-feedstock
+    188. conda-forge/django-solo-feedstock
+    189. conda-forge/django-sql-dashboard-feedstock
+    190. conda-forge/django-sql-explorer-feedstock
+    191. conda-forge/django-star-ratings-feedstock
+    192. conda-forge/django-streamfield-feedstock
+    193. conda-forge/django-structlog-feedstock
+    194. conda-forge/django-survey-and-report-feedstock
+    195. conda-forge/django-tastypie-feedstock
+    196. conda-forge/django-tenant-schemas-feedstock
+    197. conda-forge/django-tenant-users-feedstock
+    198. conda-forge/django-tenants-feedstock
+    199. conda-forge/django-tex-feedstock
+    200. conda-forge/django-timezone-field-feedstock
+    201. conda-forge/django-todo-feedstock
+    202. conda-forge/django-tree-queries-feedstock
+    203. conda-forge/django-treenode-feedstock
+    204. conda-forge/django-url-filter-feedstock
+    205. conda-forge/django-utils-six-feedstock
+    206. conda-forge/django-vite-feedstock
+    207. conda-forge/django-vite-plugin-feedstock
+    208. conda-forge/django-watchfiles-feedstock
+    209. conda-forge/django-weasyprint-feedstock
+    210. conda-forge/django-wildewidgets-feedstock
+    211. conda-forge/django-yugabytedb-feedstock
+    212. conda-forge/django-zxcvbn-password-validator-feedstock
+    213. conda-forge/djangocms-attributes-field-feedstock
+    214. conda-forge/djangocms-frontend-feedstock
+    215. conda-forge/djangocms-history-feedstock
+    216. conda-forge/djangocms-icon-feedstock
+    217. conda-forge/djangocms-link-feedstock
+    218. conda-forge/djangocms-picture-feedstock
+    219. conda-forge/djangocms-style-feedstock
+    220. conda-forge/djangocms-text-ckeditor-feedstock
+    221. conda-forge/djangorestframework-api-key-feedstock
+    222. conda-forge/djangorestframework-dataclasses-feedstock
+    223. conda-forge/djangorestframework-guardian-feedstock
+    224. conda-forge/djantic-feedstock
+    225. conda-forge/djc-core-feedstock
+    226. conda-forge/djc-core-html-parser-feedstock
+    227. conda-forge/djlint-feedstock
+    228. conda-forge/djongo5-feedstock
+    229. conda-forge/dlt-pendulum-feedstock
+    230. conda-forge/dockerflow-feedstock
+    231. conda-forge/docs2static-feedstock
+    232. conda-forge/docstring_parser_fork-feedstock
+    233. conda-forge/dremio-arrow-feedstock
+    234. conda-forge/dremio-cli-feedstock
+    235. conda-forge/dremio-simple-query-feedstock
+    236. conda-forge/dremioframe-feedstock
+    237. conda-forge/drf-optionalfields-feedstock
+    238. conda-forge/drf-pydantic-feedstock
+    239. conda-forge/drf-standardized-errors-feedstock
+    240. conda-forge/drf-to-mkdoc-feedstock
+    241. conda-forge/duckdb-server-feedstock
+    242. conda-forge/dydantic-feedstock
+    243. conda-forge/edge-tts-feedstock
+    244. conda-forge/excel-mcp-server-feedstock
+    245. conda-forge/fastapi-slim-feedstock
+    246. conda-forge/fawltydeps-feedstock
+    247. conda-forge/feast-feedstock
+    248. conda-forge/feathr-feedstock
+    249. conda-forge/fixedint-feedstock
+    250. conda-forge/fixedwidth-feedstock
+    251. conda-forge/flake518-feedstock
+    252. conda-forge/flake8-bandit-feedstock
+    253. conda-forge/flake8-debugger-feedstock
+    254. conda-forge/flake8-django-feedstock
+    255. conda-forge/flake8-executable-feedstock
+    256. conda-forge/flake8-logging-feedstock
+    257. conda-forge/flake8-no-pep420-feedstock
+    258. conda-forge/flake8-pylint-feedstock
+    259. conda-forge/flake8-pyproject-feedstock
+    260. conda-forge/flake8-tidy-imports-feedstock
+    261. conda-forge/frictionless-ckan-mapper-feedstock
+    262. conda-forge/fs.googledrivefs-feedstock
+    263. conda-forge/gekko-feedstock
+    264. conda-forge/gender-guesser-feedstock
+    265. conda-forge/gibr-feedstock
+    266. conda-forge/gita-feedstock
+    267. conda-forge/gitflow-feedstock
+    268. conda-forge/gitflow-analytics-feedstock
+    269. conda-forge/gitflow-studio-feedstock
+    270. conda-forge/google-cloud-bigquery-connection-feedstock
+    271. conda-forge/google-cloud-functions-feedstock
+    272. conda-forge/google-cloud-modelarmor-feedstock
+    273. conda-forge/google-cloud-ndb-feedstock
+    274. conda-forge/google-cloud-scheduler-feedstock
+    275. conda-forge/google-cloud-vectorsearch-feedstock
+    276. conda-forge/gotenberg-client-feedstock
+    277. conda-forge/graph-retriever-feedstock
+    278. conda-forge/grunnur-feedstock
+    279. conda-forge/guidance-stitch-feedstock
+    280. conda-forge/gw-dsl-parser-feedstock
+    281. conda-forge/h2o-lightwave-web-feedstock
+    282. conda-forge/h2o-wave-feedstock
+    283. conda-forge/hatch-build-scripts-feedstock
+    284. conda-forge/hatch-protobuf-feedstock
+    285. conda-forge/heroicons-feedstock
+    286. conda-forge/hll-feedstock
+    287. conda-forge/html-json-forms-feedstock
+    288. conda-forge/html-tag-names-feedstock
+    289. conda-forge/html-to-markdown-feedstock
+    290. conda-forge/html-void-elements-feedstock
+    291. conda-forge/html5lib-modern-feedstock
+    292. conda-forge/htmldocx-feedstock
+    293. conda-forge/http-router-feedstock
+    294. conda-forge/hubspot-api-client-feedstock
+    295. conda-forge/hyperframes-feedstock
+    296. conda-forge/hyperscript-feedstock
+    297. conda-forge/ibm-cos-suite-feedstock
+    298. conda-forge/ibm-watsonx-orchestrate-clients-feedstock
+    299. conda-forge/ibm-watsonx-orchestrate-core-feedstock
+    300. conda-forge/inertia-django-feedstock
+    301. conda-forge/install-jdk-feedstock
+    302. conda-forge/intake-dataframe-catalog-feedstock
+    303. conda-forge/intake-hive-feedstock
+    304. conda-forge/intake-nested-yaml-catalog-feedstock
+    305. conda-forge/interpret-community-feedstock
+    306. conda-forge/ironcalc-feedstock
+    307. conda-forge/itertable-feedstock
+    308. conda-forge/java-access-bridge-wrapper-feedstock
+    309. conda-forge/jh2-feedstock
+    310. conda-forge/jinja2-ospath-feedstock
+    311. conda-forge/jinja2-simple-tags-feedstock
+    312. conda-forge/json-stream-rs-tokenizer-feedstock
+    313. conda-forge/json-strong-typing-feedstock
+    314. conda-forge/json_stream-feedstock
+    315. conda-forge/jsonquerylang-feedstock
+    316. conda-forge/jupyter-marimo-proxy-feedstock
+    317. conda-forge/jupyterlab-gallery-feedstock
+    318. conda-forge/jupyterlab-launchpad-feedstock
+    319. conda-forge/jupyterlab-s3-browser-feedstock
+    320. conda-forge/jupyterlab-slideshow-feedstock
+    321. conda-forge/jurigged-feedstock
+    322. conda-forge/kantoku-feedstock
+    323. conda-forge/kedro-aim-feedstock
+    324. conda-forge/kedro-boot-feedstock
+    325. conda-forge/kedro-datasets-feedstock
+    326. conda-forge/kedro-docker-feedstock
+    327. conda-forge/kedro-great-expectations-feedstock
+    328. conda-forge/kedro-init-feedstock
+    329. conda-forge/kedro-light-feedstock
+    330. conda-forge/kedro-mcp-feedstock
+    331. conda-forge/kedro-pandera-feedstock
+    332. conda-forge/kthread-feedstock
+    333. conda-forge/laces-feedstock
+    334. conda-forge/lambdaprompt-feedstock
+    335. conda-forge/lance-namespace-urllib3-client-feedstock
+    336. conda-forge/langchain-cohere-feedstock
+    337. conda-forge/langchain-elasticsearch-feedstock
+    338. conda-forge/langchain-google-calendar-tools-feedstock
+    339. conda-forge/langchain-graph-retriever-feedstock
+    340. conda-forge/langchain-mcp-adapters-feedstock
+    341. conda-forge/langchain-nvidia-ai-endpoints-feedstock
+    342. conda-forge/langchain-pinecone-feedstock
+    343. conda-forge/langchain-sambanova-feedstock
+    344. conda-forge/langgraph-api-feedstock
+    345. conda-forge/langgraph-cli-feedstock
+    346. conda-forge/langgraph-runtime-inmem-feedstock
+    347. conda-forge/langsmith-mcp-server-feedstock
+    348. conda-forge/lazy-imports-feedstock
+    349. conda-forge/llm-sandbox-feedstock
+    350. conda-forge/llms-py-feedstock
+    351. conda-forge/lm-format-enforcer-feedstock
+    352. conda-forge/loki-logger-handler-feedstock
+    353. conda-forge/lomond-feedstock
+    354. conda-forge/lyric-component-ts-transpiling-feedstock
+    355. conda-forge/lyric-js-worker-feedstock
+    356. conda-forge/lyric-py-feedstock
+    357. conda-forge/lyric-py-worker-feedstock
+    358. conda-forge/lyric-task-feedstock
+    359. conda-forge/mailpit-feedstock
+    360. conda-forge/markdown-to-confluence-feedstock
+    361. conda-forge/markdownify-mcp-server-feedstock
+    362. conda-forge/markitdown-mcp-server-feedstock
+    363. conda-forge/marquez-python-feedstock
+    364. conda-forge/marshmallow3-annotations-feedstock
+    365. conda-forge/mcp-django-feedstock
+    366. conda-forge/mcp-powerpoint-feedstock
+    367. conda-forge/mcp-ui-server-feedstock
+    368. conda-forge/mem0ai-feedstock
+    369. conda-forge/metal-sdk-feedstock
+    370. conda-forge/microsoft-agents-m365copilot-feedstock
+    371. conda-forge/microsoft-agents-m365copilot-core-feedstock
+    372. conda-forge/microsoft-kiota-bundle-feedstock
+    373. conda-forge/mmhash3-feedstock
+    374. conda-forge/mozilla-django-oidc-feedstock
+    375. conda-forge/mypy-boto3-bedrock-runtime-feedstock
+    376. conda-forge/natural-keys-feedstock
+    377. conda-forge/needle-python-feedstock
+    378. conda-forge/negspacy-feedstock
+    379. conda-forge/nested-multipart-parser-feedstock
+    380. conda-forge/nlp-feature-extractors-feedstock
+    381. conda-forge/odfdo-feedstock
+    382. conda-forge/okta-jwt-verifier-feedstock
+    383. conda-forge/omnixai-feedstock
+    384. conda-forge/onnx-asr-feedstock
+    385. conda-forge/openevals-feedstock
+    386. conda-forge/openfeature-sdk-feedstock
+    387. conda-forge/openlayer-feedstock
+    388. conda-forge/openllm-core-feedstock
+    389. conda-forge/openmetadata-ingestion-feedstock
+    390. conda-forge/openmetadata-managed-apis-feedstock
+    391. conda-forge/openmetadata-sqllineage-feedstock
+    392. conda-forge/openreview-py-feedstock
+    393. conda-forge/opentelemetry-exporter-gcp-monitoring-feedstock
+    394. conda-forge/opentelemetry-exporter-gcp-trace-feedstock
+    395. conda-forge/opentelemetry-exporter-prometheus-remote-write-feedstock
+    396. conda-forge/opentelemetry-instrumentation-confluent-kafka-feedstock
+    397. conda-forge/opentelemetry-instrumentation-kafka-python-feedstock
+    398. conda-forge/opentelemetry-propagator-gcp-feedstock
+    399. conda-forge/opentelemetry-resourcedetector-gcp-feedstock
+    400. conda-forge/opik-feedstock
+    401. conda-forge/ovld-feedstock
+    402. conda-forge/panzi-json-logic-feedstock
+    403. conda-forge/parakeet-mlx-feedstock
+    404. conda-forge/parquet-metadata-feedstock
+    405. conda-forge/peewee-migrate-feedstock
+    406. conda-forge/pinyin-feedstock
+    407. conda-forge/pixitainer-feedstock
+    408. conda-forge/pksuid-feedstock
+    409. conda-forge/pmlb-feedstock
+    410. conda-forge/pptxgenjs-feedstock
+    411. conda-forge/primp-feedstock
+    412. conda-forge/propelauth_py-feedstock
+    413. conda-forge/prophecy-build-tool-feedstock
+    414. conda-forge/proto-parser-feedstock
+    415. conda-forge/pss-feedstock
+    416. conda-forge/psycopg2-yugabytedb-feedstock
+    417. conda-forge/py-grpc-prometheus-feedstock
+    418. conda-forge/py-key-value-feedstock
+    419. conda-forge/py-yaml12-feedstock
+    420. conda-forge/py3langid-feedstock
+    421. conda-forge/pyapacheatlas-feedstock
+    422. conda-forge/pybase62-feedstock
+    423. conda-forge/pybindgen-feedstock
+    424. conda-forge/pydantic-sqlalchemy-feedstock
+    425. conda-forge/pydantic-yaml-feedstock
+    426. conda-forge/pyecharts-feedstock
+    427. conda-forge/pygetimportables-feedstock
+    428. conda-forge/pygount-feedstock
+    429. conda-forge/pyiceberg-feedstock
+    430. conda-forge/pyignite-feedstock
+    431. conda-forge/pyinstaller-versionfile-feedstock
+    432. conda-forge/pymilvus-model-feedstock
+    433. conda-forge/pynessie-feedstock
+    434. conda-forge/pyngo-feedstock
+    435. conda-forge/pyobjc-framework-applicationservices-feedstock
+    436. conda-forge/pyobjc-framework-systemconfiguration-feedstock
+    437. conda-forge/pypac-feedstock
+    438. conda-forge/pytest-deadfixtures-feedstock
+    439. conda-forge/pytest-excel-feedstock
+    440. conda-forge/pytest-playwright-feedstock
+    441. conda-forge/pytest-pythonpath-feedstock
+    442. conda-forge/python-a2a-feedstock
+    443. conda-forge/python-flanker-feedstock
+    444. conda-forge/python-kerberos-feedstock
+    445. conda-forge/python-ulid-feedstock
+    446. conda-forge/qianfan-feedstock
+    447. conda-forge/queryish-feedstock
+    448. conda-forge/raimitigations-feedstock
+    449. conda-forge/raitracker-feedstock
+    450. conda-forge/reactpy-feedstock
+    451. conda-forge/reloading-feedstock
+    452. conda-forge/researchpy-feedstock
+    453. conda-forge/responsibleai-feedstock
+    454. conda-forge/responsibleai-text-feedstock
+    455. conda-forge/rest-pandas-feedstock
+    456. conda-forge/robocorp-excel-feedstock
+    457. conda-forge/robocorp-http-feedstock
+    458. conda-forge/robocorp-log-feedstock
+    459. conda-forge/robocorp-storage-feedstock
+    460. conda-forge/robocorp-vault-feedstock
+    461. conda-forge/robotframework-assertion-engine-feedstock
+    462. conda-forge/robotframework-databaselibrary-feedstock
+    463. conda-forge/robotframework-excellib-feedstock
+    464. conda-forge/rouge-feedstock
+    465. conda-forge/rpm-vercmp-feedstock
+    466. conda-forge/sambanova-feedstock
+    467. conda-forge/sas7bdat-converter-feedstock
+    468. conda-forge/scrapegraph-py-feedstock
+    469. conda-forge/seedir-feedstock
+    470. conda-forge/selectolax-feedstock
+    471. conda-forge/sema4ai-actions-feedstock
+    472. conda-forge/sema4ai-common-feedstock
+    473. conda-forge/sema4ai-http-helper-feedstock
+    474. conda-forge/setuptools-git-version-feedstock
+    475. conda-forge/setuptools-parcels-feedstock
+    476. conda-forge/sf-hamilton-sdk-feedstock
+    477. conda-forge/sf-hamilton-ui-feedstock
+    478. conda-forge/shapash-feedstock
+    479. conda-forge/shillelagh-feedstock
+    480. conda-forge/shortid-feedstock
+    481. conda-forge/shot-scraper-feedstock
+    482. conda-forge/singleton-decorator-feedstock
+    483. conda-forge/sketch-feedstock
+    484. conda-forge/skope-rules-feedstock
+    485. conda-forge/skranger-feedstock
+    486. conda-forge/smartsheet-python-sdk-feedstock
+    487. conda-forge/smolagents-feedstock
+    488. conda-forge/solvor-feedstock
+    489. conda-forge/sparktorch-feedstock
+    490. conda-forge/spec-kit-feedstock
+    491. conda-forge/spider-client-feedstock
+    492. conda-forge/splunk-opentelemetry-feedstock
+    493. conda-forge/sqlalchemy-databricks-feedstock
+    494. conda-forge/sqlfluff-templater-dbt-feedstock
+    495. conda-forge/sqlite-history-feedstock
+    496. conda-forge/sqlite-migrate-feedstock
+    497. conda-forge/sqlparams-feedstock
+    498. conda-forge/streamlit-reveal-slides-feedstock
+    499. conda-forge/structlog-gcp-feedstock
+    500. conda-forge/synthetic-data-feedstock
+    501. conda-forge/tabcmd-feedstock
+    502. conda-forge/tableau-to-sqlite-feedstock
+    503. conda-forge/tableauscraper-feedstock
+    504. conda-forge/tabpy-feedstock
+    505. conda-forge/taipy-config-feedstock
+    506. conda-forge/taipy-templates-feedstock
+    507. conda-forge/tastymap-feedstock
+    508. conda-forge/textual-speedups-feedstock
+    509. conda-forge/tika-client-feedstock
+    510. conda-forge/timelib-feedstock
+    511. conda-forge/timer-feedstock
+    512. conda-forge/tinyhtml5-feedstock
+    513. conda-forge/tox-poetry-installer-feedstock
+    514. conda-forge/tox-uv-feedstock
+    515. conda-forge/types-appdirs-feedstock
+    516. conda-forge/uiautomation-feedstock
+    517. conda-forge/unitxt-feedstock
+    518. conda-forge/universal-mcp-feedstock
+    519. conda-forge/universal-mcp-markitdown-feedstock
+    520. conda-forge/upstash-vector-feedstock
+    521. conda-forge/uvicorn-worker-feedstock
+    522. conda-forge/validate-pyproject-feedstock
+    523. conda-forge/vcver-feedstock
+    524. conda-forge/verlib2-feedstock
+    525. conda-forge/versiontag-feedstock
+    526. conda-forge/vision-explanation-methods-feedstock
+    527. conda-forge/vizro-feedstock
+    528. conda-forge/vizro-ai-feedstock
+    529. conda-forge/vizro-dash-components-feedstock
+    530. conda-forge/vizro-mcp-feedstock
+    531. conda-forge/vllm-nccl-cu12-feedstock
+    532. conda-forge/vlmrun-hub-feedstock
+    533. conda-forge/wagtail-ab-testing-feedstock
+    534. conda-forge/wagtail-accessibility-feedstock
+    535. conda-forge/wagtail-advanced-form-builder-feedstock
+    536. conda-forge/wagtail-ai-feedstock
+    537. conda-forge/wagtail-app-pages-feedstock
+    538. conda-forge/wagtail-autocomplete-feedstock
+    539. conda-forge/wagtail-blocks-feedstock
+    540. conda-forge/wagtail-cache-feedstock
+    541. conda-forge/wagtail-charcount-feedstock
+    542. conda-forge/wagtail-color-panel-feedstock
+    543. conda-forge/wagtail-constance-feedstock
+    544. conda-forge/wagtail-draftail-plugins-feedstock
+    545. conda-forge/wagtail-dynamic-dropdown-feedstock
+    546. conda-forge/wagtail-experiments-feedstock
+    547. conda-forge/wagtail-factories-feedstock
+    548. conda-forge/wagtail-feedback-feedstock
+    549. conda-forge/wagtail-flags-feedstock
+    550. conda-forge/wagtail-flexible-forms-feedstock
+    551. conda-forge/wagtail-font-awesome-svg-feedstock
+    552. conda-forge/wagtail-footnotes-feedstock
+    553. conda-forge/wagtail-generic-chooser-feedstock
+    554. conda-forge/wagtail-grapple-feedstock
+    555. conda-forge/wagtail-headless-preview-feedstock
+    556. conda-forge/wagtail-import-export-tool-feedstock
+    557. conda-forge/wagtail-inventory-feedstock
+    558. conda-forge/wagtail-json-widget-feedstock
+    559. conda-forge/wagtail-knowledgebase-feedstock
+    560. conda-forge/wagtail-linkchecker-feedstock
+    561. conda-forge/wagtail-live-feedstock
+    562. conda-forge/wagtail-markdown-feedstock
+    563. conda-forge/wagtail-meta-preview-feedstock
+    564. conda-forge/wagtail-metadata-feedstock
+    565. conda-forge/wagtail-modeladmin-feedstock
+    566. conda-forge/wagtail-nav-menus-feedstock
+    567. conda-forge/wagtail-pdf-feedstock
+    568. conda-forge/wagtail-periodic-review-feedstock
+    569. conda-forge/wagtail-plotly-feedstock
+    570. conda-forge/wagtail-rangefilter-feedstock
+    571. conda-forge/wagtail-resume-feedstock
+    572. conda-forge/wagtail-review-feedstock
+    573. conda-forge/wagtail-sb-admin-interface-feedstock
+    574. conda-forge/wagtail-seo-feedstock
+    575. conda-forge/wagtail-sharing-feedstock
+    576. conda-forge/wagtail-storages-feedstock
+    577. conda-forge/wagtail-surveyjs-feedstock
+    578. conda-forge/wagtail-tag-manager-feedstock
+    579. conda-forge/wagtail-taggable-feedstock
+    580. conda-forge/wagtail-themes-feedstock
+    581. conda-forge/wagtail-transfer-feedstock
+    582. conda-forge/wagtail-trash-feedstock
+    583. conda-forge/wagtail-treemodeladmin-feedstock
+    584. conda-forge/wagtail-word-feedstock
+    585. conda-forge/wagtailcharts-feedstock
+    586. conda-forge/wagtailextraicons-feedstock
+    587. conda-forge/wagtailgridder-feedstock
+    588. conda-forge/wagtailmath-feedstock
+    589. conda-forge/wagtailmedia-feedstock
+    590. conda-forge/wagtailmenus-feedstock
+    591. conda-forge/wagtailnews-feedstock
+    592. conda-forge/wagtailstreamforms-feedstock
+    593. conda-forge/wagtailtables-feedstock
+    594. conda-forge/wasmtime-py-feedstock
+    595. conda-forge/webstories-feedstock
+    596. conda-forge/whoosh-reloaded-feedstock
+    597. conda-forge/word-forms-feedstock
+    598. conda-forge/xdg-base-dirs-feedstock
+    599. conda-forge/xorq-feedstock
+    600. conda-forge/xorq-dasher-feedstock
+    601. conda-forge/xorq-datafusion-feedstock
+    602. conda-forge/ydata-profiling-feedstock
+    603. conda-forge/ydata-quality-feedstock
+    604. conda-forge/ydata-synthetic-feedstock
+    605. conda-forge/yo-feedstock
+    606. conda-forge/zxcvbn-feedstock
 
-List Of FeedStocks - As Co-Maintainer
-
-1. conda-forge/agno-feedstock
-2. conda-forge/airflow-code-editor-feedstock
-3. conda-forge/airflow-provider-great-expectations-feedstock
-4. conda-forge/airflow-provider-xlsx-feedstock
-5. conda-forge/alang-feedstock
-6. conda-forge/anaconda-catalogs-feedstock
-7. conda-forge/askbot-feedstock
-8. conda-forge/assemblyai-feedstock
-9. conda-forge/avro-feedstock
-10. conda-forge/azure-core-tracing-opentelemetry-feedstock
-11. conda-forge/azure-monitor-opentelemetry-feedstock
-12. conda-forge/azure-monitor-opentelemetry-exporter-feedstock
-13. conda-forge/azure-storage-file-share-feedstock
-14. conda-forge/bandit-feedstock
-15. conda-forge/basedmypy-feedstock
-16. conda-forge/behave-feedstock
-17. conda-forge/bentoml-feedstock
-18. conda-forge/billiard-feedstock
-19. conda-forge/bmad-method-feedstock
-20. conda-forge/cachetools-feedstock
-21. conda-forge/channels_redis-feedstock
-22. conda-forge/click-repl-feedstock
-23. conda-forge/clickclick-feedstock
-24. conda-forge/collectfast-feedstock
-25. conda-forge/compress-pickle-feedstock
-26. conda-forge/confection-feedstock
-27. conda-forge/contextvars-feedstock
-28. conda-forge/cron-descriptor-feedstock
-29. conda-forge/cssselect2-feedstock
-30. conda-forge/culsans-feedstock
-31. conda-forge/dacite-feedstock
-32. conda-forge/dash-ag-grid-feedstock
-33. conda-forge/dataclasses-json-feedstock
-34. conda-forge/dbt-feedstock
-35. conda-forge/dbt-adapters-feedstock
-36. conda-forge/dbt-bigquery-feedstock
-37. conda-forge/dbt-common-feedstock
-38. conda-forge/dbt-postgres-feedstock
-39. conda-forge/dbt-redshift-feedstock
-40. conda-forge/dbt-snowflake-feedstock
-41. conda-forge/dbt-spark-feedstock
-42. conda-forge/dice-ml-feedstock
-43. conda-forge/django-allauth-feedstock
-44. conda-forge/django-anymail-feedstock
-45. conda-forge/django-appconf-feedstock
-46. conda-forge/django-autocomplete-light-feedstock
-47. conda-forge/django-avatar-feedstock
-48. conda-forge/django-bakery-feedstock
-49. conda-forge/django-bootstrap5-feedstock
-50. conda-forge/django-braces-feedstock
-51. conda-forge/django-cachalot-feedstock
-52. conda-forge/django-configurations-feedstock
-53. conda-forge/django-cors-headers-feedstock
-54. conda-forge/django-countries-feedstock
-55. conda-forge/django-environ-feedstock
-56. conda-forge/django-filer-feedstock
-57. conda-forge/django-followit-feedstock
-58. conda-forge/django-foundation-formtags-feedstock
-59. conda-forge/django-fsm-feedstock
-60. conda-forge/django-fsm-admin-feedstock
-61. conda-forge/django-fsm-log-feedstock
-62. conda-forge/django-haystack-feedstock
-63. conda-forge/django-jinja-feedstock
-64. conda-forge/django-jsonstore-feedstock
-65. conda-forge/django-keyedcache3-feedstock
-66. conda-forge/django-libsass-feedstock
-67. conda-forge/django-livesettings3-feedstock
-68. conda-forge/django-material-feedstock
-69. conda-forge/django-model-utils-feedstock
-70. conda-forge/django-modelcluster-feedstock
-71. conda-forge/django-mptt-feedstock
-72. conda-forge/django-mptt-admin-feedstock
-73. conda-forge/django-picklefield-feedstock
-74. conda-forge/django-redis-feedstock
-75. conda-forge/django-reversion-feedstock
-76. conda-forge/django-robots-feedstock
-77. conda-forge/django-silk-feedstock
-78. conda-forge/django-simple-history-feedstock
-79. conda-forge/django-storages-feedstock
-80. conda-forge/django-test-plus-feedstock
-81. conda-forge/django-tinymce-feedstock
-82. conda-forge/django-viewflow-feedstock
-83. conda-forge/django-webpack-loader-feedstock
-84. conda-forge/django_compressor-feedstock
-85. conda-forge/django_coverage_plugin-feedstock
-86. conda-forge/djangorestframework-filters-feedstock
-87. conda-forge/djangorestframework-jsonapi-feedstock
-88. conda-forge/dlt-feedstock
-89. conda-forge/docx2txt-feedstock
-90. conda-forge/dpd_components-feedstock
-91. conda-forge/draftjs_exporter-feedstock
-92. conda-forge/drf-spectacular-feedstock
-93. conda-forge/drf-spectacular-sidecar-feedstock
-94. conda-forge/dsnparse-feedstock
-95. conda-forge/easy-thumbnails-feedstock
-96. conda-forge/ebcdic-parser-feedstock
-97. conda-forge/fastmcp-feedstock
-98. conda-forge/google-cloud-iam-feedstock
-99. conda-forge/gprof2dot-feedstock
-100. conda-forge/grafana-client-feedstock
-101. conda-forge/graphene-django-feedstock
-102. conda-forge/graphifyy-feedstock
-103. conda-forge/grimp-feedstock
-104. conda-forge/hurry.filesize-feedstock
-105. conda-forge/import-linter-feedstock
-106. conda-forge/jhub-apps-feedstock
-107. conda-forge/json5-feedstock
-108. conda-forge/kanaries-track-feedstock
-109. conda-forge/kedro-airflow-feedstock
-110. conda-forge/kedro-dagster-feedstock
-111. conda-forge/kedro-pack-feedstock
-112. conda-forge/kedro-telemetry-feedstock
-113. conda-forge/kedro-vertexai-feedstock
-114. conda-forge/kedro-viz-feedstock
-115. conda-forge/llm-feedstock
-116. conda-forge/markov_draftjs-feedstock
-117. conda-forge/micropip-feedstock
-118. conda-forge/minio-feedstock
-119. conda-forge/modelsearch-feedstock
-120. conda-forge/mssql-django-feedstock
-121. conda-forge/niquests-feedstock
-122. conda-forge/ocrmypdf-feedstock
-123. conda-forge/office365-rest-python-client-feedstock
-124. conda-forge/openlineage-airflow-feedstock
-125. conda-forge/openlineage-dbt-feedstock
-126. conda-forge/openlineage-integration-common-feedstock
-127. conda-forge/openlineage-python-feedstock
-128. conda-forge/openlineage-sql-feedstock
-129. conda-forge/openllm-feedstock
-130. conda-forge/openllm-client-feedstock
-131. conda-forge/openllm-playground-feedstock
-132. conda-forge/openmetadata-airflow-managed-apis-feedstock
-133. conda-forge/opentelemetry-api-feedstock
-134. conda-forge/opentelemetry-distro-feedstock
-135. conda-forge/opentelemetry-exporter-jaeger-feedstock
-136. conda-forge/opentelemetry-exporter-jaeger-proto-grpc-feedstock
-137. conda-forge/opentelemetry-exporter-jaeger-thrift-feedstock
-138. conda-forge/opentelemetry-exporter-opencensus-feedstock
-139. conda-forge/opentelemetry-exporter-otlp-feedstock
-140. conda-forge/opentelemetry-exporter-otlp-proto-common-feedstock
-141. conda-forge/opentelemetry-exporter-otlp-proto-grpc-feedstock
-142. conda-forge/opentelemetry-exporter-otlp-proto-http-feedstock
-143. conda-forge/opentelemetry-exporter-prometheus-feedstock
-144. conda-forge/opentelemetry-exporter-zipkin-feedstock
-145. conda-forge/opentelemetry-exporter-zipkin-json-feedstock
-146. conda-forge/opentelemetry-exporter-zipkin-proto-http-feedstock
-147. conda-forge/opentelemetry-instrumentation-feedstock
-148. conda-forge/opentelemetry-instrumentation-aiopg-feedstock
-149. conda-forge/opentelemetry-instrumentation-asgi-feedstock
-150. conda-forge/opentelemetry-instrumentation-asyncio-feedstock
-151. conda-forge/opentelemetry-instrumentation-boto-feedstock
-152. conda-forge/opentelemetry-instrumentation-boto3sqs-feedstock
-153. conda-forge/opentelemetry-instrumentation-botocore-feedstock
-154. conda-forge/opentelemetry-instrumentation-celery-feedstock
-155. conda-forge/opentelemetry-instrumentation-click-feedstock
-156. conda-forge/opentelemetry-instrumentation-dbapi-feedstock
-157. conda-forge/opentelemetry-instrumentation-django-feedstock
-158. conda-forge/opentelemetry-instrumentation-elasticsearch-feedstock
-159. conda-forge/opentelemetry-instrumentation-falcon-feedstock
-160. conda-forge/opentelemetry-instrumentation-flask-feedstock
-161. conda-forge/opentelemetry-instrumentation-grpc-feedstock
-162. conda-forge/opentelemetry-instrumentation-httpx-feedstock
-163. conda-forge/opentelemetry-instrumentation-mysql-feedstock
-164. conda-forge/opentelemetry-instrumentation-psycopg2-feedstock
-165. conda-forge/opentelemetry-instrumentation-pymemcache-feedstock
-166. conda-forge/opentelemetry-instrumentation-pymongo-feedstock
-167. conda-forge/opentelemetry-instrumentation-pyramid-feedstock
-168. conda-forge/opentelemetry-instrumentation-requests-feedstock
-169. conda-forge/opentelemetry-instrumentation-sklearn-feedstock
-170. conda-forge/opentelemetry-instrumentation-sqlalchemy-feedstock
-171. conda-forge/opentelemetry-instrumentation-sqlite3-feedstock
-172. conda-forge/opentelemetry-instrumentation-system-metrics-feedstock
-173. conda-forge/opentelemetry-instrumentation-tornado-feedstock
-174. conda-forge/opentelemetry-instrumentation-tortoiseorm-feedstock
-175. conda-forge/opentelemetry-instrumentation-urllib3-feedstock
-176. conda-forge/opentelemetry-instrumentation-wsgi-feedstock
-177. conda-forge/opentelemetry-propagator-jaeger-feedstock
-178. conda-forge/opentelemetry-proto-feedstock
-179. conda-forge/opentelemetry-resource-detector-azure-feedstock
-180. conda-forge/opentelemetry-sdk-feedstock
-181. conda-forge/opentelemetry-semantic-conventions-feedstock
-182. conda-forge/opentelemetry-util-http-feedstock
-183. conda-forge/pdfplumber-feedstock
-184. conda-forge/pigar-feedstock
-185. conda-forge/pillow-heif-feedstock
-186. conda-forge/pip-audit-feedstock
-187. conda-forge/pipdeptree-feedstock
-188. conda-forge/poetry-conda-feedstock
-189. conda-forge/prometheus-fastapi-instrumentator-feedstock
-190. conda-forge/pydeck-feedstock
-191. conda-forge/pygwalker-feedstock
-192. conda-forge/pyicu-feedstock
-193. conda-forge/pylint-django-feedstock
-194. conda-forge/pylint-plugin-utils-feedstock
-195. conda-forge/pyobjc-framework-coretext-feedstock
-196. conda-forge/pysqlite3-feedstock
-197. conda-forge/pytest-instafail-feedstock
-198. conda-forge/pytest-robotframework-feedstock
-199. conda-forge/python-openid2-feedstock
-200. conda-forge/radon-feedstock
-201. conda-forge/rcssmin-feedstock
-202. conda-forge/redis-py-feedstock
-203. conda-forge/redshift_connector-feedstock
-204. conda-forge/repoze.lru-feedstock
-205. conda-forge/rise-feedstock
-206. conda-forge/rjsmin-feedstock
-207. conda-forge/robocorp-feedstock
-208. conda-forge/robocorp-tasks-feedstock
-209. conda-forge/robocorp-workitems-feedstock
-210. conda-forge/robotframework-browser-feedstock
-211. conda-forge/ruamel.yaml.jinja2-feedstock
-212. conda-forge/sentry-sdk-feedstock
-213. conda-forge/sphinx-external-toc-feedstock
-214. conda-forge/sqlalchemy-dremio-feedstock
-215. conda-forge/sqlmesh-feedstock
-216. conda-forge/stringzilla-feedstock
-217. conda-forge/textstat-feedstock
-218. conda-forge/tox-feedstock
-219. conda-forge/tree-sitter-c-feedstock
-220. conda-forge/tree-sitter-cpp-feedstock
-221. conda-forge/tree-sitter-elixir-feedstock
-222. conda-forge/tree-sitter-fortran-feedstock
-223. conda-forge/tree-sitter-go-feedstock
-224. conda-forge/tree-sitter-groovy-feedstock
-225. conda-forge/tree-sitter-java-feedstock
-226. conda-forge/tree-sitter-javascript-feedstock
-227. conda-forge/tree-sitter-json-feedstock
-228. conda-forge/tree-sitter-julia-feedstock
-229. conda-forge/tree-sitter-kotlin-feedstock
-230. conda-forge/tree-sitter-lua-feedstock
-231. conda-forge/tree-sitter-markdown-feedstock
-232. conda-forge/tree-sitter-objc-feedstock
-233. conda-forge/tree-sitter-php-feedstock
-234. conda-forge/tree-sitter-powershell-feedstock
-235. conda-forge/tree-sitter-ruby-feedstock
-236. conda-forge/tree-sitter-rust-feedstock
-237. conda-forge/tree-sitter-scala-feedstock
-238. conda-forge/tree-sitter-swift-feedstock
-239. conda-forge/tree-sitter-typescript-feedstock
-240. conda-forge/tree-sitter-verilog-feedstock
-241. conda-forge/tree-sitter-zig-feedstock
-242. conda-forge/trufflehog-feedstock
-243. conda-forge/trufflehogregexes-feedstock
-244. conda-forge/types-lxml-feedstock
-245. conda-forge/urllib3-future-feedstock
-246. conda-forge/visions-feedstock
-247. conda-forge/vulture-feedstock
-248. conda-forge/wagtail-feedstock
-249. conda-forge/wagtail-bakery-feedstock
-250. conda-forge/wagtail-tinytableblock-feedstock
-251. conda-forge/weasel-feedstock
-252. conda-forge/weasyprint-feedstock
-253. conda-forge/webassets-feedstock
-254. conda-forge/whitenoise-feedstock
-255. conda-forge/zxing-cpp-feedstock
+List Of FeedStocks - Co-maintainer	266
+    1. conda-forge/agno-feedstock
+    2. conda-forge/airflow-code-editor-feedstock
+    3. conda-forge/airflow-provider-great-expectations-feedstock
+    4. conda-forge/airflow-provider-xlsx-feedstock
+    5. conda-forge/alang-feedstock
+    6. conda-forge/anaconda-catalogs-feedstock
+    7. conda-forge/askbot-feedstock
+    8. conda-forge/assemblyai-feedstock
+    9. conda-forge/avro-feedstock
+    10. conda-forge/azure-core-tracing-opentelemetry-feedstock
+    11. conda-forge/azure-monitor-opentelemetry-feedstock
+    12. conda-forge/azure-monitor-opentelemetry-exporter-feedstock
+    13. conda-forge/azure-storage-file-share-feedstock
+    14. conda-forge/bandit-feedstock
+    15. conda-forge/basedmypy-feedstock
+    16. conda-forge/behave-feedstock
+    17. conda-forge/bentoml-feedstock
+    18. conda-forge/billiard-feedstock
+    19. conda-forge/bmad-method-feedstock
+    20. conda-forge/cachetools-feedstock
+    21. conda-forge/channels_redis-feedstock
+    22. conda-forge/click-repl-feedstock
+    23. conda-forge/clickclick-feedstock
+    24. conda-forge/collectfast-feedstock
+    25. conda-forge/compress-pickle-feedstock
+    26. conda-forge/confection-feedstock
+    27. conda-forge/contextvars-feedstock
+    28. conda-forge/cron-descriptor-feedstock
+    29. conda-forge/cssselect2-feedstock
+    30. conda-forge/culsans-feedstock
+    31. conda-forge/dacite-feedstock
+    32. conda-forge/dash-ag-grid-feedstock
+    33. conda-forge/dataclasses-json-feedstock
+    34. conda-forge/db-gpt-feedstock
+    35. conda-forge/dbt-feedstock
+    36. conda-forge/dbt-adapters-feedstock
+    37. conda-forge/dbt-bigquery-feedstock
+    38. conda-forge/dbt-common-feedstock
+    39. conda-forge/dbt-postgres-feedstock
+    40. conda-forge/dbt-redshift-feedstock
+    41. conda-forge/dbt-snowflake-feedstock
+    42. conda-forge/dbt-spark-feedstock
+    43. conda-forge/dice-ml-feedstock
+    44. conda-forge/django-allauth-feedstock
+    45. conda-forge/django-anymail-feedstock
+    46. conda-forge/django-appconf-feedstock
+    47. conda-forge/django-autocomplete-light-feedstock
+    48. conda-forge/django-avatar-feedstock
+    49. conda-forge/django-bakery-feedstock
+    50. conda-forge/django-bootstrap5-feedstock
+    51. conda-forge/django-braces-feedstock
+    52. conda-forge/django-cachalot-feedstock
+    53. conda-forge/django-configurations-feedstock
+    54. conda-forge/django-cors-headers-feedstock
+    55. conda-forge/django-countries-feedstock
+    56. conda-forge/django-environ-feedstock
+    57. conda-forge/django-filer-feedstock
+    58. conda-forge/django-followit-feedstock
+    59. conda-forge/django-foundation-formtags-feedstock
+    60. conda-forge/django-fsm-feedstock
+    61. conda-forge/django-fsm-admin-feedstock
+    62. conda-forge/django-fsm-log-feedstock
+    63. conda-forge/django-haystack-feedstock
+    64. conda-forge/django-jinja-feedstock
+    65. conda-forge/django-jsonstore-feedstock
+    66. conda-forge/django-keyedcache3-feedstock
+    67. conda-forge/django-libsass-feedstock
+    68. conda-forge/django-livesettings3-feedstock
+    69. conda-forge/django-material-feedstock
+    70. conda-forge/django-model-utils-feedstock
+    71. conda-forge/django-modelcluster-feedstock
+    72. conda-forge/django-mptt-feedstock
+    73. conda-forge/django-mptt-admin-feedstock
+    74. conda-forge/django-picklefield-feedstock
+    75. conda-forge/django-redis-feedstock
+    76. conda-forge/django-reversion-feedstock
+    77. conda-forge/django-robots-feedstock
+    78. conda-forge/django-silk-feedstock
+    79. conda-forge/django-simple-history-feedstock
+    80. conda-forge/django-storages-feedstock
+    81. conda-forge/django-test-plus-feedstock
+    82. conda-forge/django-tinymce-feedstock
+    83. conda-forge/django-viewflow-feedstock
+    84. conda-forge/django-webpack-loader-feedstock
+    85. conda-forge/django_compressor-feedstock
+    86. conda-forge/django_coverage_plugin-feedstock
+    87. conda-forge/djangorestframework-filters-feedstock
+    88. conda-forge/djangorestframework-jsonapi-feedstock
+    89. conda-forge/dlt-feedstock
+    90. conda-forge/docx2txt-feedstock
+    91. conda-forge/dpd_components-feedstock
+    92. conda-forge/draftjs_exporter-feedstock
+    93. conda-forge/drf-spectacular-feedstock
+    94. conda-forge/drf-spectacular-sidecar-feedstock
+    95. conda-forge/dsnparse-feedstock
+    96. conda-forge/easy-thumbnails-feedstock
+    97. conda-forge/ebcdic-parser-feedstock
+    98. conda-forge/fastmcp-feedstock
+    99. conda-forge/google-cloud-iam-feedstock
+    100. conda-forge/gprof2dot-feedstock
+    101. conda-forge/grafana-client-feedstock
+    102. conda-forge/graphene-django-feedstock
+    103. conda-forge/graphifyy-feedstock
+    104. conda-forge/grimp-feedstock
+    105. conda-forge/headroom-ai-feedstock
+    106. conda-forge/hurry.filesize-feedstock
+    107. conda-forge/import-linter-feedstock
+    108. conda-forge/jhub-apps-feedstock
+    109. conda-forge/json5-feedstock
+    110. conda-forge/kanaries-track-feedstock
+    111. conda-forge/kedro-airflow-feedstock
+    112. conda-forge/kedro-dagster-feedstock
+    113. conda-forge/kedro-pack-feedstock
+    114. conda-forge/kedro-telemetry-feedstock
+    115. conda-forge/kedro-vertexai-feedstock
+    116. conda-forge/kedro-viz-feedstock
+    117. conda-forge/langchain-litellm-feedstock
+    118. conda-forge/langchain-milvus-feedstock
+    119. conda-forge/langchain-unstructured-feedstock
+    120. conda-forge/langflow-feedstock
+    121. conda-forge/llm-feedstock
+    122. conda-forge/markov_draftjs-feedstock
+    123. conda-forge/micropip-feedstock
+    124. conda-forge/milvus-lite-feedstock
+    125. conda-forge/minio-feedstock
+    126. conda-forge/modelsearch-feedstock
+    127. conda-forge/mssql-django-feedstock
+    128. conda-forge/niquests-feedstock
+    129. conda-forge/ocrmypdf-feedstock
+    130. conda-forge/office2pdf-feedstock
+    131. conda-forge/office365-rest-python-client-feedstock
+    132. conda-forge/openlineage-airflow-feedstock
+    133. conda-forge/openlineage-dbt-feedstock
+    134. conda-forge/openlineage-integration-common-feedstock
+    135. conda-forge/openlineage-python-feedstock
+    136. conda-forge/openlineage-sql-feedstock
+    137. conda-forge/openllm-feedstock
+    138. conda-forge/openllm-client-feedstock
+    139. conda-forge/openllm-playground-feedstock
+    140. conda-forge/openmetadata-airflow-managed-apis-feedstock
+    141. conda-forge/opentelemetry-api-feedstock
+    142. conda-forge/opentelemetry-distro-feedstock
+    143. conda-forge/opentelemetry-exporter-jaeger-feedstock
+    144. conda-forge/opentelemetry-exporter-jaeger-proto-grpc-feedstock
+    145. conda-forge/opentelemetry-exporter-jaeger-thrift-feedstock
+    146. conda-forge/opentelemetry-exporter-opencensus-feedstock
+    147. conda-forge/opentelemetry-exporter-otlp-feedstock
+    148. conda-forge/opentelemetry-exporter-otlp-proto-common-feedstock
+    149. conda-forge/opentelemetry-exporter-otlp-proto-grpc-feedstock
+    150. conda-forge/opentelemetry-exporter-otlp-proto-http-feedstock
+    151. conda-forge/opentelemetry-exporter-prometheus-feedstock
+    152. conda-forge/opentelemetry-exporter-zipkin-feedstock
+    153. conda-forge/opentelemetry-exporter-zipkin-json-feedstock
+    154. conda-forge/opentelemetry-exporter-zipkin-proto-http-feedstock
+    155. conda-forge/opentelemetry-instrumentation-feedstock
+    156. conda-forge/opentelemetry-instrumentation-aiopg-feedstock
+    157. conda-forge/opentelemetry-instrumentation-asgi-feedstock
+    158. conda-forge/opentelemetry-instrumentation-asyncio-feedstock
+    159. conda-forge/opentelemetry-instrumentation-boto-feedstock
+    160. conda-forge/opentelemetry-instrumentation-boto3sqs-feedstock
+    161. conda-forge/opentelemetry-instrumentation-botocore-feedstock
+    162. conda-forge/opentelemetry-instrumentation-celery-feedstock
+    163. conda-forge/opentelemetry-instrumentation-click-feedstock
+    164. conda-forge/opentelemetry-instrumentation-dbapi-feedstock
+    165. conda-forge/opentelemetry-instrumentation-django-feedstock
+    166. conda-forge/opentelemetry-instrumentation-elasticsearch-feedstock
+    167. conda-forge/opentelemetry-instrumentation-falcon-feedstock
+    168. conda-forge/opentelemetry-instrumentation-flask-feedstock
+    169. conda-forge/opentelemetry-instrumentation-grpc-feedstock
+    170. conda-forge/opentelemetry-instrumentation-httpx-feedstock
+    171. conda-forge/opentelemetry-instrumentation-mysql-feedstock
+    172. conda-forge/opentelemetry-instrumentation-psycopg2-feedstock
+    173. conda-forge/opentelemetry-instrumentation-pymemcache-feedstock
+    174. conda-forge/opentelemetry-instrumentation-pymongo-feedstock
+    175. conda-forge/opentelemetry-instrumentation-pyramid-feedstock
+    176. conda-forge/opentelemetry-instrumentation-requests-feedstock
+    177. conda-forge/opentelemetry-instrumentation-sklearn-feedstock
+    178. conda-forge/opentelemetry-instrumentation-sqlalchemy-feedstock
+    179. conda-forge/opentelemetry-instrumentation-sqlite3-feedstock
+    180. conda-forge/opentelemetry-instrumentation-system-metrics-feedstock
+    181. conda-forge/opentelemetry-instrumentation-tornado-feedstock
+    182. conda-forge/opentelemetry-instrumentation-tortoiseorm-feedstock
+    183. conda-forge/opentelemetry-instrumentation-urllib3-feedstock
+    184. conda-forge/opentelemetry-instrumentation-wsgi-feedstock
+    185. conda-forge/opentelemetry-propagator-jaeger-feedstock
+    186. conda-forge/opentelemetry-proto-feedstock
+    187. conda-forge/opentelemetry-resource-detector-azure-feedstock
+    188. conda-forge/opentelemetry-sdk-feedstock
+    189. conda-forge/opentelemetry-semantic-conventions-feedstock
+    190. conda-forge/opentelemetry-util-http-feedstock
+    191. conda-forge/pdfplumber-feedstock
+    192. conda-forge/pigar-feedstock
+    193. conda-forge/pillow-heif-feedstock
+    194. conda-forge/pip-audit-feedstock
+    195. conda-forge/pipdeptree-feedstock
+    196. conda-forge/pngquant-feedstock
+    197. conda-forge/poetry-conda-feedstock
+    198. conda-forge/prometheus-fastapi-instrumentator-feedstock
+    199. conda-forge/pydeck-feedstock
+    200. conda-forge/pygwalker-feedstock
+    201. conda-forge/pyicu-feedstock
+    202. conda-forge/pylint-django-feedstock
+    203. conda-forge/pylint-plugin-utils-feedstock
+    204. conda-forge/pyobjc-framework-coretext-feedstock
+    205. conda-forge/pysqlite3-feedstock
+    206. conda-forge/pytest-instafail-feedstock
+    207. conda-forge/pytest-robotframework-feedstock
+    208. conda-forge/python-openid2-feedstock
+    209. conda-forge/radon-feedstock
+    210. conda-forge/rcssmin-feedstock
+    211. conda-forge/redis-py-feedstock
+    212. conda-forge/redshift_connector-feedstock
+    213. conda-forge/repoze.lru-feedstock
+    214. conda-forge/rise-feedstock
+    215. conda-forge/rjsmin-feedstock
+    216. conda-forge/robocorp-feedstock
+    217. conda-forge/robocorp-tasks-feedstock
+    218. conda-forge/robocorp-workitems-feedstock
+    219. conda-forge/robotframework-browser-feedstock
+    220. conda-forge/ruamel.yaml.jinja2-feedstock
+    221. conda-forge/sentry-sdk-feedstock
+    222. conda-forge/sphinx-external-toc-feedstock
+    223. conda-forge/sqlalchemy-dremio-feedstock
+    224. conda-forge/sqlmesh-feedstock
+    225. conda-forge/stringzilla-feedstock
+    226. conda-forge/textstat-feedstock
+    227. conda-forge/tox-feedstock
+    228. conda-forge/tree-sitter-c-feedstock
+    229. conda-forge/tree-sitter-cpp-feedstock
+    230. conda-forge/tree-sitter-elixir-feedstock
+    231. conda-forge/tree-sitter-fortran-feedstock
+    232. conda-forge/tree-sitter-go-feedstock
+    233. conda-forge/tree-sitter-groovy-feedstock
+    234. conda-forge/tree-sitter-java-feedstock
+    235. conda-forge/tree-sitter-javascript-feedstock
+    236. conda-forge/tree-sitter-json-feedstock
+    237. conda-forge/tree-sitter-julia-feedstock
+    238. conda-forge/tree-sitter-kotlin-feedstock
+    239. conda-forge/tree-sitter-lua-feedstock
+    240. conda-forge/tree-sitter-markdown-feedstock
+    241. conda-forge/tree-sitter-objc-feedstock
+    242. conda-forge/tree-sitter-php-feedstock
+    243. conda-forge/tree-sitter-powershell-feedstock
+    244. conda-forge/tree-sitter-ruby-feedstock
+    245. conda-forge/tree-sitter-rust-feedstock
+    246. conda-forge/tree-sitter-scala-feedstock
+    247. conda-forge/tree-sitter-swift-feedstock
+    248. conda-forge/tree-sitter-typescript-feedstock
+    249. conda-forge/tree-sitter-verilog-feedstock
+    250. conda-forge/tree-sitter-zig-feedstock
+    251. conda-forge/trufflehog-feedstock
+    252. conda-forge/trufflehogregexes-feedstock
+    253. conda-forge/types-lxml-feedstock
+    254. conda-forge/urllib3-future-feedstock
+    255. conda-forge/visions-feedstock
+    256. conda-forge/vlmrun-feedstock
+    257. conda-forge/vulture-feedstock
+    258. conda-forge/wagtail-feedstock
+    259. conda-forge/wagtail-bakery-feedstock
+    260. conda-forge/wagtail-tinytableblock-feedstock
+    261. conda-forge/weasel-feedstock
+    262. conda-forge/weasyprint-feedstock
+    263. conda-forge/webassets-feedstock
+    264. conda-forge/whitenoise-feedstock
+    265. conda-forge/zxing-cpp-feedstock
+    266. conda-forge/zxing-cpp-python-feedstock
