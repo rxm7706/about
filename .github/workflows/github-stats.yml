@@ -39,7 +39,7 @@ jobs:
           node scripts/generate-stats.js
         env:
           PAT_1: ${{ secrets.GH_TOKEN }}
-          FETCH_MULTI_PAGE_STARS: "true"
+          FETCH_MULTI_PAGE_STARS: "false"
         shell: bash
       
       - name: Commit and Push
