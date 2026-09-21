@@ -10,8 +10,8 @@
    6. [FINOS](https://www.finos.org/)
    7. [Python Software Foundation](https://www.python.org/psf-landing/)
 
-[![rxm7706's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rxm7706&theme=default)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![rxm7706's Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rxm7706&theme=default&utcOffset=-5)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![rxm7706's GitHub stats](https://raw.githubusercontent.com/rxm7706/about/main/generated-stats/stats.svg)](https://github.com/rxm7706/github-readme-stats)
+[![rxm7706's Top Languages](https://raw.githubusercontent.com/rxm7706/about/main/generated-stats/top-langs.svg)](https://github.com/rxm7706/github-readme-stats)
 
 ## Feedstocks
 

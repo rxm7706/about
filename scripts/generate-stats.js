@@ -35,7 +35,6 @@ const main = async () => {
   
   // Stats Card
   await run("stats", username, {
-    show: "prs_merged,prs_merged_percentage,rank,discussions_started,discussions_answered",
     hide: "stars",
     rank_icon: "percentile",
     include_all_commits: "true",
